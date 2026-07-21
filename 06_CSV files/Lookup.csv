@@ -1,0 +1,11 @@
+Departments,Business_Units,Countries,Regions,Methodologies,Project_Status,Health,Priority,Risk Categories,Issue Categories,Technologies,Vendors,Benefit Categories,Financial Status,Change Status
+Finance,Digital,India,APAC,Agile,Initiation,Green,High,Schedule,Defect,SAP S/4HANA,Infosys,Cost Savings,Under Budget,Submitted
+HR,ERP,Singapore,EMEA,Scrum,Planning,Amber,Medium,Budget,Vendor,Oracle ERP,TCS,Revenue Growth,On Budget,Approved
+IT,Cloud,UK,Americas,Kanban,Execution,Red,Low,Resource,Infrastructure,Microsoft Azure,Wipro,Productivity,Over Budget,Rejected
+Operations,Cybersecurity,USA,,Waterfall,Closure,,,Technical,Resource,AWS,Cognizant,Compliance,,Implemented
+Sales,AI,Canada,,Hybrid,On Hold,,,Security,Scope,Salesforce,Accenture,Customer Satisfaction,,Closed
+Marketing,Infrastructure,UAE,,,Cancelled,,,Vendor,Security,Power BI,Deloitte,,,
+Procurement,Data & Analytics,Australia,,,,,,Compliance,Budget,SQL Server,Microsoft,,,
+Legal,Customer Experience,Germany,,,,,,Quality,,Snowflake,SAP,,,
+PMO,,,,,,,,,,SeriveNow,IBM,,,
+Corporate,,,,,,,,,,Microsoft Fabric,Capgemini,,,

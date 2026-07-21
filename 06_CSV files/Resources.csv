@@ -1,0 +1,401 @@
+Resource_ID,Employee_Name,Designation,Department,Project_ID,Allocation_%,Billable,Employment_Type,Joining_Date,Experience_Years,Primary_Skill,Secondary_Skill,Certification,Location,Manager,Hourly_Rate,Monthly_Cost,Utilization_%,Resource_Status
+RES0001,Employee 1,Architect,Sales,PRJ048,50,No,Permanent,18-Oct-24,11,Azure,Salesforce,None,Germany,A Sharma,118.00,115069.00,67,Released
+RES0002,Employee 2,BA,HR,PRJ052,100,Yes,Contract,04-Mar-22,15,Azure,Power BI,None,UK,R Singh,118.00,115069.00,96,Active
+RES0003,Employee 3,BA,Sales,PRJ078,25,Yes,Permanent,03-Apr-24,16,Azure,Oracle,AZ-900,UK,N Kumar,118.00,115069.00,80,Released
+RES0004,Employee 4,Architect,Marketing,PRJ023,75,Yes,Permanent,30-Jun-23,4,AWS,Dynamics 365,AZ-900,Singapore,V Mehta,118.00,115069.00,73,Released
+RES0005,Employee 5,Tester,Marketing,PRJ092,50,No,Contract,17-Mar-25,4,Dynamics 365,Dynamics 365,None,Germany,S Verma,118.00,115069.00,87,Released
+RES0006,Employee 6,Architect,Marketing,PRJ089,25,No,Contract,12-Jan-24,13,Oracle,Salesforce,PMP,Singapore,V Mehta,118.00,115069.00,75,Active
+RES0007,Employee 7,BA,HR,PRJ071,75,Yes,Contract,14-Sep-24,1,Oracle,Power BI,None,Singapore,V Mehta,118.00,115069.00,91,Active
+RES0008,Employee 8,Tester,IT,PRJ011,25,Yes,Permanent,25-Mar-25,10,Azure,Oracle,PL-300,India,N Kumar,118.00,115069.00,74,Released
+RES0009,Employee 9,PM,Sales,PRJ049,50,No,Contract,13-Nov-22,7,Dynamics 365,Dynamics 365,PL-300,India,M Patel,118.00,115069.00,84,Released
+RES0010,Employee 10,PM,Operations,PRJ057,75,Yes,Contract,03-Sep-23,9,Azure,Oracle,None,Singapore,P Gupta,118.00,115069.00,99,Released
+RES0011,Employee 11,Developer,Marketing,PRJ035,50,Yes,Contract,16-Dec-22,17,Oracle,SAP,None,Australia,V Mehta,118.00,115069.00,94,Released
+RES0012,Employee 12,Architect,Operations,PRJ007,75,No,Permanent,01-Jun-24,6,Salesforce,Azure,CSM,USA,M Patel,118.00,115069.00,100,Released
+RES0013,Employee 13,PM,Finance,PRJ063,100,Yes,Contract,28-Nov-24,1,Dynamics 365,Dynamics 365,AZ-900,Germany,K Rao,118.00,115069.00,97,Active
+RES0014,Employee 14,Developer,Sales,PRJ006,50,Yes,Permanent,20-Feb-23,4,Salesforce,Dynamics 365,PL-300,Germany,N Kumar,118.00,115069.00,65,Active
+RES0015,Employee 15,Architect,Marketing,PRJ091,100,No,Contract,28-Feb-22,4,Dynamics 365,Dynamics 365,None,Germany,M Patel,118.00,115069.00,74,Active
+RES0016,Employee 16,Tester,Finance,PRJ020,50,Yes,Contract,30-Apr-23,15,Azure,Power BI,AZ-900,Australia,R Singh,118.00,115069.00,88,Released
+RES0017,Employee 17,PM,Sales,PRJ028,75,Yes,Contract,14-Jan-25,3,AWS,Dynamics 365,PMP,Germany,V Mehta,118.00,115069.00,69,Released
+RES0018,Employee 18,BA,Sales,PRJ014,25,Yes,Permanent,08-Feb-22,5,Power BI,Oracle,None,Singapore,R Singh,118.00,115069.00,85,Active
+RES0019,Employee 19,BA,HR,PRJ026,100,No,Contract,30-Oct-23,15,Oracle,Azure,PL-300,Germany,R Singh,118.00,115069.00,74,Released
+RES0020,Employee 20,BA,Sales,PRJ099,75,No,Permanent,26-Sep-24,5,Salesforce,Dynamics 365,PL-300,India,R Singh,118.00,115069.00,86,Released
+RES0021,Employee 21,PM,Finance,PRJ010,75,Yes,Permanent,11-Dec-22,7,Oracle,SAP,PL-300,Singapore,N Kumar,118.00,115069.00,70,Active
+RES0022,Employee 22,Developer,HR,PRJ029,25,Yes,Permanent,15-Feb-24,20,Salesforce,Oracle,AZ-900,Australia,P Gupta,118.00,115069.00,91,Active
+RES0023,Employee 23,PM,Operations,PRJ028,50,Yes,Permanent,14-Jul-24,6,Oracle,AWS,CSM,Germany,S Verma,118.00,115069.00,97,Released
+RES0024,Employee 24,BA,Marketing,PRJ044,100,No,Contract,12-Sep-23,2,Dynamics 365,Salesforce,CSM,USA,S Verma,118.00,115069.00,61,Released
+RES0025,Employee 25,Developer,Marketing,PRJ096,75,No,Contract,20-Jan-22,2,AWS,Azure,AZ-900,Germany,P Gupta,118.00,115069.00,82,Released
+RES0026,Employee 26,PM,Marketing,PRJ083,50,No,Contract,20-Nov-24,16,AWS,SAP,None,India,R Singh,118.00,115069.00,70,Released
+RES0027,Employee 27,Tester,HR,PRJ011,25,No,Permanent,08-Feb-22,13,Oracle,Azure,PL-300,USA,R Singh,118.00,115069.00,87,Active
+RES0028,Employee 28,Tester,Finance,PRJ082,75,Yes,Permanent,29-Mar-23,20,Oracle,Azure,None,India,K Rao,118.00,115069.00,74,Active
+RES0029,Employee 29,PM,IT,PRJ038,50,No,Contract,30-Mar-24,8,Salesforce,Azure,PL-300,UK,A Sharma,118.00,115069.00,81,Active
+RES0030,Employee 30,PM,Sales,PRJ061,100,No,Permanent,11-Oct-24,14,Azure,Salesforce,AZ-900,India,V Mehta,118.00,115069.00,60,Active
+RES0031,Employee 31,Tester,IT,PRJ044,75,Yes,Permanent,10-Aug-23,8,AWS,Salesforce,None,Germany,N Kumar,118.00,115069.00,67,Released
+RES0032,Employee 32,BA,Sales,PRJ078,50,No,Contract,20-Apr-22,6,AWS,Dynamics 365,None,Singapore,N Kumar,118.00,115069.00,79,Active
+RES0033,Employee 33,Developer,Sales,PRJ051,100,No,Permanent,12-Apr-23,19,SAP,AWS,PMP,India,S Verma,118.00,115069.00,90,Released
+RES0034,Employee 34,Developer,IT,PRJ038,25,No,Permanent,12-Oct-22,2,Dynamics 365,SAP,PMP,Australia,A Sharma,118.00,115069.00,62,Released
+RES0035,Employee 35,BA,Sales,PRJ049,25,No,Contract,13-Jan-22,12,Dynamics 365,Oracle,PL-300,USA,P Gupta,118.00,115069.00,72,Released
+RES0036,Employee 36,Tester,Finance,PRJ035,100,Yes,Permanent,01-Jul-22,3,SAP,SAP,None,UK,P Gupta,118.00,115069.00,97,Active
+RES0037,Employee 37,PM,Operations,PRJ002,75,Yes,Permanent,14-Jan-23,12,Salesforce,Oracle,PMP,Singapore,A Sharma,118.00,115069.00,94,Released
+RES0038,Employee 38,PM,Sales,PRJ086,75,Yes,Contract,08-Sep-24,20,SAP,Oracle,PL-300,Singapore,M Patel,118.00,115069.00,94,Active
+RES0039,Employee 39,Developer,Finance,PRJ027,25,No,Permanent,28-Oct-23,9,Dynamics 365,Azure,PMP,Singapore,V Mehta,118.00,115069.00,60,Released
+RES0040,Employee 40,Tester,Marketing,PRJ058,50,No,Contract,02-Jun-24,14,Dynamics 365,Power BI,None,Australia,S Verma,118.00,115069.00,63,Released
+RES0041,Employee 41,PM,Marketing,PRJ065,75,Yes,Permanent,08-Jul-22,19,Salesforce,Azure,AZ-900,Singapore,R Singh,118.00,115069.00,71,Active
+RES0042,Employee 42,Tester,Marketing,PRJ030,75,Yes,Contract,05-Jul-24,13,Azure,Azure,PL-300,UK,R Singh,118.00,115069.00,87,Released
+RES0043,Employee 43,Architect,Sales,PRJ098,50,No,Contract,20-Jan-22,2,Power BI,Oracle,CSM,UK,P Gupta,118.00,115069.00,65,Active
+RES0044,Employee 44,PM,HR,PRJ036,25,No,Permanent,05-Jul-24,18,Dynamics 365,Oracle,PMP,USA,S Verma,118.00,115069.00,72,Released
+RES0045,Employee 45,PM,Operations,PRJ008,25,Yes,Permanent,27-Jun-23,19,SAP,Oracle,PMP,Australia,R Singh,118.00,115069.00,66,Released
+RES0046,Employee 46,PM,Marketing,PRJ048,50,Yes,Permanent,11-Feb-22,18,Oracle,AWS,CSM,Germany,M Patel,118.00,115069.00,65,Released
+RES0047,Employee 47,BA,Marketing,PRJ018,75,No,Contract,14-Feb-25,11,AWS,Oracle,PL-300,Germany,V Mehta,118.00,115069.00,91,Active
+RES0048,Employee 48,BA,IT,PRJ044,100,No,Permanent,21-Feb-25,10,Azure,SAP,PL-300,UK,A Sharma,118.00,115069.00,71,Active
+RES0049,Employee 49,Tester,Operations,PRJ001,75,No,Permanent,24-Aug-22,9,Salesforce,SAP,None,Germany,K Rao,118.00,115069.00,68,Released
+RES0050,Employee 50,PM,IT,PRJ091,75,No,Permanent,11-Dec-23,6,SAP,Azure,AZ-900,Singapore,N Kumar,118.00,115069.00,71,Released
+RES0051,Employee 51,PM,Sales,PRJ071,50,Yes,Contract,20-Jul-24,18,SAP,SAP,CSM,Australia,P Gupta,118.00,115069.00,98,Released
+RES0052,Employee 52,PM,Operations,PRJ082,75,Yes,Contract,30-Jun-22,14,Power BI,SAP,None,Germany,A Sharma,118.00,115069.00,98,Active
+RES0053,Employee 53,PM,Sales,PRJ003,75,No,Contract,17-Sep-23,19,SAP,Azure,PL-300,Germany,S Verma,118.00,115069.00,96,Released
+RES0054,Employee 54,Developer,IT,PRJ083,75,No,Permanent,13-Oct-22,16,Oracle,Power BI,CSM,USA,M Patel,118.00,115069.00,62,Active
+RES0055,Employee 55,Architect,Marketing,PRJ013,100,Yes,Contract,18-Nov-23,14,Dynamics 365,Power BI,AZ-900,UK,V Mehta,118.00,115069.00,80,Active
+RES0056,Employee 56,Developer,Finance,PRJ055,100,No,Permanent,16-Sep-24,12,Oracle,SAP,PMP,Singapore,V Mehta,118.00,115069.00,69,Active
+RES0057,Employee 57,BA,HR,PRJ039,100,No,Permanent,23-Aug-22,14,Salesforce,Salesforce,CSM,UK,K Rao,118.00,115069.00,82,Active
+RES0058,Employee 58,Architect,Marketing,PRJ086,25,Yes,Permanent,27-Feb-25,2,Oracle,Azure,AZ-900,Singapore,M Patel,118.00,115069.00,91,Active
+RES0059,Employee 59,PM,Marketing,PRJ057,100,No,Contract,18-Jun-22,1,Oracle,Power BI,AZ-900,UK,A Sharma,118.00,115069.00,74,Released
+RES0060,Employee 60,Tester,IT,PRJ004,50,Yes,Contract,10-Apr-23,4,SAP,SAP,CSM,Australia,S Verma,118.00,115069.00,92,Active
+RES0061,Employee 61,Developer,Marketing,PRJ040,25,Yes,Contract,26-Oct-22,3,SAP,Azure,CSM,Australia,N Kumar,118.00,115069.00,88,Active
+RES0062,Employee 62,Tester,IT,PRJ090,50,Yes,Permanent,23-Aug-24,16,Oracle,Azure,AZ-900,USA,N Kumar,118.00,115069.00,79,Active
+RES0063,Employee 63,PM,Sales,PRJ027,75,No,Contract,31-Mar-25,9,Azure,SAP,AZ-900,Germany,M Patel,118.00,115069.00,86,Active
+RES0064,Employee 64,BA,HR,PRJ043,75,No,Permanent,04-Apr-22,19,Oracle,Power BI,CSM,Germany,A Sharma,118.00,115069.00,80,Released
+RES0065,Employee 65,Architect,Finance,PRJ070,25,No,Contract,20-Jun-23,11,Power BI,Oracle,AZ-900,Singapore,N Kumar,118.00,115069.00,81,Released
+RES0066,Employee 66,Architect,Marketing,PRJ058,50,No,Permanent,01-May-23,18,Dynamics 365,Dynamics 365,AZ-900,USA,V Mehta,118.00,115069.00,63,Released
+RES0067,Employee 67,Developer,IT,PRJ060,25,Yes,Contract,04-Sep-23,6,Dynamics 365,Azure,CSM,USA,R Singh,118.00,115069.00,61,Released
+RES0068,Employee 68,Developer,Operations,PRJ014,50,Yes,Permanent,22-Dec-24,19,SAP,SAP,AZ-900,Germany,A Sharma,118.00,115069.00,75,Released
+RES0069,Employee 69,PM,Marketing,PRJ085,100,No,Permanent,13-Feb-25,4,Salesforce,SAP,AZ-900,UK,M Patel,118.00,115069.00,87,Released
+RES0070,Employee 70,BA,HR,PRJ031,75,Yes,Permanent,05-Jan-24,19,SAP,Power BI,PMP,Australia,P Gupta,118.00,115069.00,79,Released
+RES0071,Employee 71,PM,Sales,PRJ027,100,Yes,Contract,26-Aug-24,14,Dynamics 365,Dynamics 365,None,Singapore,K Rao,118.00,115069.00,60,Active
+RES0072,Employee 72,Developer,HR,PRJ100,50,Yes,Permanent,17-Aug-22,8,Power BI,SAP,PL-300,USA,P Gupta,118.00,115069.00,92,Released
+RES0073,Employee 73,Architect,IT,PRJ019,25,Yes,Contract,21-Feb-24,9,SAP,SAP,None,UK,S Verma,118.00,115069.00,63,Active
+RES0074,Employee 74,PM,IT,PRJ092,25,No,Permanent,04-Sep-22,5,Dynamics 365,Dynamics 365,PL-300,USA,P Gupta,118.00,115069.00,68,Released
+RES0075,Employee 75,BA,Marketing,PRJ089,100,Yes,Permanent,10-Apr-24,12,Oracle,SAP,None,Singapore,P Gupta,118.00,115069.00,64,Released
+RES0076,Employee 76,Architect,Marketing,PRJ082,100,No,Contract,12-Sep-23,11,Dynamics 365,Power BI,AZ-900,Singapore,P Gupta,118.00,115069.00,95,Active
+RES0077,Employee 77,Architect,Operations,PRJ019,25,Yes,Permanent,08-Jan-24,7,Salesforce,SAP,AZ-900,Singapore,K Rao,118.00,115069.00,60,Active
+RES0078,Employee 78,Developer,HR,PRJ100,75,Yes,Contract,05-Dec-23,14,AWS,Salesforce,None,Australia,A Sharma,118.00,115069.00,67,Released
+RES0079,Employee 79,Architect,Operations,PRJ044,75,No,Permanent,01-Feb-25,4,Salesforce,SAP,None,USA,V Mehta,118.00,115069.00,64,Active
+RES0080,Employee 80,Tester,HR,PRJ079,75,Yes,Contract,24-Mar-22,10,Oracle,Oracle,PL-300,India,A Sharma,118.00,115069.00,95,Active
+RES0081,Employee 81,Tester,Finance,PRJ041,25,No,Contract,21-Jan-22,4,Power BI,Oracle,AZ-900,Singapore,K Rao,118.00,115069.00,83,Released
+RES0082,Employee 82,PM,Sales,PRJ030,25,Yes,Contract,11-Nov-23,11,Oracle,Oracle,AZ-900,USA,V Mehta,118.00,115069.00,79,Released
+RES0083,Employee 83,Developer,Operations,PRJ032,75,Yes,Contract,07-Mar-22,18,AWS,Azure,AZ-900,Germany,M Patel,118.00,115069.00,74,Released
+RES0084,Employee 84,Tester,HR,PRJ059,75,No,Contract,05-Aug-23,15,Dynamics 365,Salesforce,AZ-900,Australia,A Sharma,118.00,115069.00,89,Active
+RES0085,Employee 85,BA,HR,PRJ075,100,No,Permanent,11-Jul-24,5,Oracle,Dynamics 365,PL-300,Singapore,S Verma,118.00,115069.00,64,Active
+RES0086,Employee 86,Tester,Marketing,PRJ095,50,No,Permanent,23-Aug-24,18,Azure,Power BI,CSM,UK,K Rao,118.00,115069.00,78,Released
+RES0087,Employee 87,Architect,Finance,PRJ086,25,No,Contract,15-Apr-25,19,Dynamics 365,Power BI,AZ-900,UK,S Verma,118.00,115069.00,65,Active
+RES0088,Employee 88,BA,Operations,PRJ099,50,No,Contract,06-Jul-22,14,Oracle,Salesforce,PL-300,Australia,P Gupta,118.00,115069.00,97,Released
+RES0089,Employee 89,Architect,Marketing,PRJ064,25,Yes,Contract,08-May-22,5,SAP,Salesforce,PMP,UK,A Sharma,118.00,115069.00,68,Active
+RES0090,Employee 90,BA,Finance,PRJ058,100,No,Permanent,26-Mar-23,19,Salesforce,Dynamics 365,PL-300,USA,S Verma,118.00,115069.00,61,Released
+RES0091,Employee 91,Developer,Sales,PRJ031,50,Yes,Permanent,17-Jan-25,17,Oracle,SAP,PMP,USA,N Kumar,118.00,115069.00,62,Active
+RES0092,Employee 92,Architect,Sales,PRJ074,75,No,Contract,11-Dec-24,16,AWS,Oracle,AZ-900,Singapore,P Gupta,118.00,115069.00,68,Active
+RES0093,Employee 93,BA,HR,PRJ065,100,No,Permanent,28-Sep-24,17,Salesforce,Dynamics 365,PL-300,Australia,R Singh,118.00,115069.00,83,Released
+RES0094,Employee 94,BA,Marketing,PRJ093,25,No,Contract,20-Nov-24,6,Power BI,Azure,AZ-900,India,M Patel,118.00,115069.00,76,Active
+RES0095,Employee 95,BA,Finance,PRJ049,25,No,Contract,19-Apr-22,6,AWS,Dynamics 365,PMP,UK,M Patel,118.00,115069.00,93,Released
+RES0096,Employee 96,PM,IT,PRJ035,100,No,Permanent,13-Mar-25,7,AWS,Azure,None,UK,P Gupta,118.00,115069.00,79,Active
+RES0097,Employee 97,Architect,IT,PRJ029,25,Yes,Permanent,03-Mar-24,4,Oracle,AWS,None,UK,A Sharma,118.00,115069.00,83,Released
+RES0098,Employee 98,Tester,Sales,PRJ006,25,Yes,Permanent,24-Jan-23,4,SAP,Oracle,AZ-900,India,A Sharma,118.00,115069.00,74,Released
+RES0099,Employee 99,Tester,Operations,PRJ063,50,No,Contract,20-Jul-22,6,Salesforce,Power BI,CSM,India,P Gupta,118.00,115069.00,63,Released
+RES0100,Employee 100,PM,Finance,PRJ054,75,No,Permanent,07-Apr-24,5,SAP,AWS,None,UK,R Singh,118.00,115069.00,77,Released
+RES0101,Employee 101,PM,Finance,PRJ009,100,No,Contract,17-Sep-24,4,Dynamics 365,AWS,PMP,Singapore,N Kumar,118.00,115069.00,75,Active
+RES0102,Employee 102,Tester,HR,PRJ097,100,No,Permanent,14-Dec-23,4,Oracle,Salesforce,CSM,India,S Verma,118.00,115069.00,80,Released
+RES0103,Employee 103,PM,Marketing,PRJ046,50,Yes,Contract,15-Jun-23,4,Azure,SAP,PMP,Germany,S Verma,118.00,115069.00,99,Active
+RES0104,Employee 104,Architect,Operations,PRJ098,50,Yes,Contract,03-Nov-23,12,SAP,AWS,PL-300,UK,A Sharma,118.00,115069.00,82,Released
+RES0105,Employee 105,Developer,Sales,PRJ079,100,Yes,Contract,10-Mar-22,17,Power BI,Oracle,CSM,Australia,M Patel,118.00,115069.00,70,Released
+RES0106,Employee 106,PM,Marketing,PRJ028,75,No,Permanent,11-Jan-25,2,Power BI,Salesforce,None,Singapore,R Singh,118.00,115069.00,84,Active
+RES0107,Employee 107,BA,Marketing,PRJ072,25,Yes,Permanent,18-Feb-23,20,Azure,Dynamics 365,PL-300,India,N Kumar,118.00,115069.00,66,Released
+RES0108,Employee 108,Architect,Finance,PRJ093,75,No,Contract,08-Aug-24,13,Azure,AWS,AZ-900,Australia,A Sharma,118.00,115069.00,72,Released
+RES0109,Employee 109,Architect,HR,PRJ038,75,Yes,Contract,25-May-22,2,Dynamics 365,Dynamics 365,PL-300,USA,M Patel,118.00,115069.00,78,Released
+RES0110,Employee 110,Architect,IT,PRJ029,100,No,Permanent,15-Nov-24,13,Azure,Salesforce,PL-300,Germany,K Rao,118.00,115069.00,60,Released
+RES0111,Employee 111,PM,Sales,PRJ008,50,Yes,Permanent,20-Aug-24,17,Oracle,Oracle,None,UK,A Sharma,118.00,115069.00,65,Released
+RES0112,Employee 112,Developer,HR,PRJ011,25,Yes,Permanent,30-Aug-23,16,Dynamics 365,Dynamics 365,PMP,USA,K Rao,118.00,115069.00,71,Released
+RES0113,Employee 113,Developer,IT,PRJ043,25,No,Contract,05-Sep-22,1,AWS,Power BI,CSM,UK,V Mehta,118.00,115069.00,72,Active
+RES0114,Employee 114,Tester,HR,PRJ075,50,Yes,Contract,12-Sep-23,12,Salesforce,Oracle,AZ-900,Germany,K Rao,118.00,115069.00,66,Released
+RES0115,Employee 115,Developer,HR,PRJ080,25,No,Permanent,25-Aug-24,8,Oracle,Azure,PL-300,USA,K Rao,118.00,115069.00,78,Active
+RES0116,Employee 116,PM,Sales,PRJ091,25,Yes,Contract,28-Apr-24,13,Dynamics 365,AWS,PL-300,UK,M Patel,118.00,115069.00,61,Active
+RES0117,Employee 117,PM,HR,PRJ079,25,Yes,Contract,24-Dec-24,18,Azure,Dynamics 365,CSM,UK,P Gupta,118.00,115069.00,61,Released
+RES0118,Employee 118,PM,Sales,PRJ090,75,Yes,Contract,15-Sep-24,3,Azure,Dynamics 365,CSM,Germany,V Mehta,118.00,115069.00,85,Released
+RES0119,Employee 119,Developer,HR,PRJ001,50,Yes,Permanent,24-Jan-25,19,Power BI,SAP,PMP,UK,M Patel,118.00,115069.00,68,Released
+RES0120,Employee 120,PM,HR,PRJ070,75,Yes,Contract,18-Dec-22,18,SAP,AWS,PL-300,Australia,N Kumar,118.00,115069.00,73,Active
+RES0121,Employee 121,BA,IT,PRJ047,50,No,Contract,21-Jan-22,14,Dynamics 365,Dynamics 365,PL-300,Germany,P Gupta,118.00,115069.00,81,Released
+RES0122,Employee 122,Tester,Sales,PRJ094,25,Yes,Permanent,03-Apr-25,18,SAP,AWS,AZ-900,Singapore,N Kumar,118.00,115069.00,80,Released
+RES0123,Employee 123,Architect,Finance,PRJ023,75,Yes,Permanent,22-May-22,12,Dynamics 365,Azure,None,Singapore,A Sharma,118.00,115069.00,65,Released
+RES0124,Employee 124,Developer,Operations,PRJ032,25,No,Permanent,19-Oct-22,19,SAP,AWS,PL-300,Singapore,S Verma,118.00,115069.00,99,Released
+RES0125,Employee 125,Architect,HR,PRJ026,75,No,Contract,30-Dec-22,18,SAP,Oracle,PL-300,Singapore,K Rao,118.00,115069.00,74,Active
+RES0126,Employee 126,Architect,HR,PRJ047,100,No,Permanent,17-Nov-24,7,Dynamics 365,Azure,PMP,Germany,P Gupta,118.00,115069.00,68,Active
+RES0127,Employee 127,Tester,IT,PRJ086,25,Yes,Contract,10-Jan-22,8,Azure,Dynamics 365,PL-300,UK,R Singh,118.00,115069.00,63,Released
+RES0128,Employee 128,Developer,Marketing,PRJ085,75,No,Contract,20-Aug-24,8,Azure,Oracle,AZ-900,Australia,S Verma,118.00,115069.00,77,Active
+RES0129,Employee 129,Architect,Operations,PRJ073,100,No,Contract,27-Jun-24,19,Power BI,SAP,None,Germany,V Mehta,118.00,115069.00,76,Released
+RES0130,Employee 130,Developer,Marketing,PRJ039,100,No,Permanent,19-Jun-22,19,SAP,Salesforce,PL-300,UK,P Gupta,118.00,115069.00,74,Active
+RES0131,Employee 131,BA,IT,PRJ091,25,Yes,Contract,16-Feb-25,12,SAP,Dynamics 365,CSM,Singapore,P Gupta,118.00,115069.00,66,Released
+RES0132,Employee 132,PM,Marketing,PRJ076,100,Yes,Contract,13-Jun-23,15,Dynamics 365,Dynamics 365,PL-300,UK,R Singh,118.00,115069.00,69,Active
+RES0133,Employee 133,PM,Operations,PRJ021,25,No,Permanent,18-Sep-24,1,Power BI,Dynamics 365,CSM,India,S Verma,118.00,115069.00,71,Active
+RES0134,Employee 134,BA,Sales,PRJ055,75,No,Contract,24-Feb-22,19,SAP,Azure,CSM,Germany,S Verma,118.00,115069.00,88,Released
+RES0135,Employee 135,Tester,Sales,PRJ053,25,No,Contract,26-Apr-24,1,Oracle,Azure,AZ-900,Singapore,V Mehta,118.00,115069.00,74,Active
+RES0136,Employee 136,Architect,Sales,PRJ066,25,Yes,Contract,12-May-23,12,Power BI,SAP,PMP,Germany,P Gupta,118.00,115069.00,96,Active
+RES0137,Employee 137,Tester,HR,PRJ071,25,No,Contract,01-Mar-25,15,SAP,Dynamics 365,PL-300,Germany,P Gupta,118.00,115069.00,67,Active
+RES0138,Employee 138,Architect,HR,PRJ050,75,Yes,Permanent,13-May-24,17,Dynamics 365,Azure,AZ-900,Australia,P Gupta,118.00,115069.00,76,Released
+RES0139,Employee 139,BA,Sales,PRJ069,75,Yes,Permanent,08-Feb-25,16,Salesforce,Dynamics 365,PL-300,Germany,R Singh,118.00,115069.00,70,Released
+RES0140,Employee 140,Tester,Finance,PRJ002,25,No,Contract,13-Feb-24,16,Power BI,Power BI,PMP,Germany,P Gupta,118.00,115069.00,91,Released
+RES0141,Employee 141,Tester,IT,PRJ045,50,Yes,Contract,07-Feb-22,10,AWS,Azure,PL-300,Singapore,A Sharma,118.00,115069.00,73,Released
+RES0142,Employee 142,BA,Operations,PRJ036,100,Yes,Contract,30-Jun-22,6,Salesforce,Azure,PMP,USA,V Mehta,118.00,115069.00,97,Released
+RES0143,Employee 143,BA,IT,PRJ029,100,Yes,Permanent,11-Jul-23,4,AWS,Oracle,CSM,Australia,N Kumar,118.00,115069.00,91,Active
+RES0144,Employee 144,Tester,Sales,PRJ010,25,No,Permanent,31-Jan-25,6,AWS,SAP,PL-300,Singapore,K Rao,118.00,115069.00,96,Active
+RES0145,Employee 145,Developer,IT,PRJ024,50,Yes,Permanent,12-Mar-24,6,AWS,Power BI,AZ-900,USA,A Sharma,118.00,115069.00,83,Active
+RES0146,Employee 146,Developer,HR,PRJ055,100,Yes,Contract,14-Dec-23,14,Power BI,SAP,PMP,Germany,R Singh,118.00,115069.00,91,Active
+RES0147,Employee 147,Tester,HR,PRJ018,50,No,Contract,29-Feb-24,16,SAP,SAP,AZ-900,Australia,P Gupta,118.00,115069.00,77,Active
+RES0148,Employee 148,Developer,IT,PRJ048,100,No,Contract,17-Nov-23,17,Dynamics 365,Dynamics 365,CSM,Singapore,S Verma,118.00,115069.00,93,Active
+RES0149,Employee 149,BA,Operations,PRJ010,100,Yes,Permanent,31-Dec-22,14,SAP,AWS,PL-300,UK,S Verma,118.00,115069.00,83,Active
+RES0150,Employee 150,PM,Sales,PRJ001,100,No,Permanent,08-May-23,10,SAP,Power BI,None,Singapore,A Sharma,118.00,115069.00,99,Active
+RES0151,Employee 151,Developer,Finance,PRJ083,25,No,Permanent,09-Oct-24,14,Oracle,Salesforce,CSM,UK,S Verma,118.00,115069.00,82,Released
+RES0152,Employee 152,PM,Marketing,PRJ054,75,Yes,Permanent,04-Jul-23,20,Power BI,Azure,PMP,UK,N Kumar,118.00,115069.00,78,Active
+RES0153,Employee 153,BA,IT,PRJ059,50,No,Contract,22-Apr-24,15,AWS,Dynamics 365,PMP,UK,P Gupta,118.00,115069.00,77,Released
+RES0154,Employee 154,Architect,Marketing,PRJ076,100,No,Contract,06-Aug-23,20,Dynamics 365,Dynamics 365,CSM,Germany,A Sharma,118.00,115069.00,79,Released
+RES0155,Employee 155,Architect,Finance,PRJ059,25,No,Permanent,15-Jun-22,18,Dynamics 365,AWS,AZ-900,India,V Mehta,118.00,115069.00,73,Active
+RES0156,Employee 156,Tester,HR,PRJ036,25,No,Permanent,07-Sep-24,16,Dynamics 365,Power BI,PMP,Australia,A Sharma,118.00,115069.00,74,Active
+RES0157,Employee 157,BA,Operations,PRJ100,25,No,Permanent,08-Jun-24,20,SAP,Power BI,PMP,Australia,K Rao,118.00,115069.00,91,Released
+RES0158,Employee 158,Developer,HR,PRJ025,100,No,Permanent,21-Nov-24,7,Oracle,SAP,None,India,V Mehta,118.00,115069.00,96,Released
+RES0159,Employee 159,PM,Marketing,PRJ019,100,No,Contract,25-Oct-22,11,Power BI,Oracle,None,USA,N Kumar,118.00,115069.00,100,Active
+RES0160,Employee 160,Tester,Finance,PRJ057,75,No,Contract,25-Nov-23,17,Power BI,Dynamics 365,PL-300,Germany,K Rao,118.00,115069.00,86,Released
+RES0161,Employee 161,Tester,HR,PRJ064,75,Yes,Contract,19-Feb-24,8,AWS,SAP,AZ-900,India,P Gupta,118.00,115069.00,65,Active
+RES0162,Employee 162,PM,Operations,PRJ005,75,No,Permanent,25-May-23,6,AWS,Dynamics 365,PMP,India,S Verma,118.00,115069.00,75,Released
+RES0163,Employee 163,Architect,HR,PRJ047,50,Yes,Contract,10-Mar-22,17,Oracle,Azure,PL-300,USA,N Kumar,118.00,115069.00,64,Released
+RES0164,Employee 164,PM,HR,PRJ072,25,Yes,Permanent,30-Dec-24,10,SAP,SAP,PL-300,UK,S Verma,118.00,115069.00,90,Released
+RES0165,Employee 165,BA,IT,PRJ058,75,No,Permanent,22-Mar-23,11,AWS,Azure,CSM,USA,M Patel,118.00,115069.00,70,Released
+RES0166,Employee 166,Tester,Operations,PRJ069,25,Yes,Permanent,01-Mar-22,19,Salesforce,Power BI,PMP,India,V Mehta,118.00,115069.00,79,Released
+RES0167,Employee 167,PM,Marketing,PRJ082,100,No,Contract,07-Aug-23,15,Power BI,SAP,CSM,Singapore,A Sharma,118.00,115069.00,74,Released
+RES0168,Employee 168,PM,IT,PRJ006,75,No,Permanent,30-Nov-23,4,Azure,Salesforce,None,UK,R Singh,118.00,115069.00,67,Released
+RES0169,Employee 169,BA,Operations,PRJ026,75,No,Contract,18-Sep-24,6,Oracle,Salesforce,PMP,Germany,S Verma,118.00,115069.00,72,Active
+RES0170,Employee 170,Tester,IT,PRJ062,75,Yes,Contract,31-Oct-24,14,AWS,Oracle,PMP,Germany,M Patel,118.00,115069.00,89,Released
+RES0171,Employee 171,Developer,Sales,PRJ020,50,No,Contract,23-Apr-22,8,Oracle,Power BI,None,UK,V Mehta,118.00,115069.00,92,Released
+RES0172,Employee 172,Developer,HR,PRJ057,100,No,Contract,23-Jul-22,14,Oracle,Power BI,PL-300,Germany,K Rao,118.00,115069.00,71,Released
+RES0173,Employee 173,Tester,HR,PRJ062,50,No,Contract,06-Aug-24,14,Azure,SAP,PL-300,UK,P Gupta,118.00,115069.00,77,Active
+RES0174,Employee 174,Developer,Operations,PRJ073,100,Yes,Permanent,28-Jun-22,8,Dynamics 365,Dynamics 365,PL-300,India,A Sharma,118.00,115069.00,92,Active
+RES0175,Employee 175,BA,Operations,PRJ053,75,No,Contract,04-Jan-25,8,Oracle,SAP,AZ-900,Singapore,S Verma,118.00,115069.00,98,Released
+RES0176,Employee 176,Tester,Marketing,PRJ086,100,Yes,Permanent,09-Dec-23,2,Oracle,Power BI,None,Germany,M Patel,118.00,115069.00,87,Released
+RES0177,Employee 177,Architect,Finance,PRJ088,25,Yes,Contract,31-Oct-24,11,AWS,Oracle,None,Singapore,M Patel,118.00,115069.00,67,Active
+RES0178,Employee 178,BA,HR,PRJ039,100,Yes,Contract,13-Mar-23,7,Power BI,Azure,None,Germany,N Kumar,118.00,115069.00,78,Active
+RES0179,Employee 179,PM,Sales,PRJ008,100,No,Permanent,03-Sep-23,9,Oracle,Dynamics 365,PL-300,UK,A Sharma,118.00,115069.00,74,Released
+RES0180,Employee 180,Tester,Marketing,PRJ018,25,Yes,Permanent,03-Dec-22,13,Oracle,Azure,AZ-900,USA,M Patel,118.00,115069.00,98,Released
+RES0181,Employee 181,PM,Sales,PRJ040,50,No,Contract,27-Nov-22,1,SAP,Azure,CSM,Australia,P Gupta,118.00,115069.00,75,Active
+RES0182,Employee 182,Tester,Finance,PRJ091,50,Yes,Contract,30-Sep-23,17,Azure,Oracle,CSM,India,P Gupta,118.00,115069.00,67,Released
+RES0183,Employee 183,Tester,Finance,PRJ082,25,No,Contract,05-Apr-25,3,Dynamics 365,AWS,CSM,USA,P Gupta,118.00,115069.00,63,Active
+RES0184,Employee 184,Developer,Operations,PRJ063,50,Yes,Contract,29-Mar-22,14,SAP,AWS,AZ-900,Germany,P Gupta,118.00,115069.00,64,Active
+RES0185,Employee 185,Developer,HR,PRJ050,75,Yes,Contract,15-Apr-24,20,Salesforce,SAP,CSM,India,M Patel,118.00,115069.00,76,Active
+RES0186,Employee 186,Developer,Operations,PRJ040,25,No,Permanent,12-Jun-22,15,Azure,SAP,CSM,Singapore,V Mehta,118.00,115069.00,80,Active
+RES0187,Employee 187,BA,Marketing,PRJ053,25,Yes,Permanent,31-Jan-24,12,SAP,Salesforce,AZ-900,India,A Sharma,118.00,115069.00,97,Released
+RES0188,Employee 188,Tester,Marketing,PRJ030,100,No,Contract,27-Oct-24,6,Azure,Power BI,AZ-900,Germany,K Rao,118.00,115069.00,98,Active
+RES0189,Employee 189,PM,Finance,PRJ013,75,Yes,Permanent,13-Mar-24,19,SAP,Dynamics 365,AZ-900,USA,M Patel,118.00,115069.00,71,Active
+RES0190,Employee 190,Developer,Marketing,PRJ089,100,No,Contract,23-Jan-22,6,Salesforce,AWS,PMP,Australia,A Sharma,118.00,115069.00,82,Released
+RES0191,Employee 191,PM,Sales,PRJ058,75,Yes,Permanent,08-Aug-22,19,Power BI,Power BI,AZ-900,Singapore,R Singh,118.00,115069.00,97,Released
+RES0192,Employee 192,Tester,Finance,PRJ075,50,No,Contract,06-Dec-23,14,Dynamics 365,Power BI,PL-300,Singapore,S Verma,118.00,115069.00,70,Released
+RES0193,Employee 193,Architect,Marketing,PRJ028,75,Yes,Permanent,01-Mar-22,8,Salesforce,SAP,CSM,India,A Sharma,118.00,115069.00,60,Active
+RES0194,Employee 194,Architect,Finance,PRJ029,50,No,Permanent,27-Nov-22,11,SAP,Dynamics 365,CSM,Singapore,R Singh,118.00,115069.00,88,Active
+RES0195,Employee 195,PM,Marketing,PRJ005,100,No,Contract,05-Mar-25,3,Oracle,SAP,CSM,India,P Gupta,118.00,115069.00,95,Released
+RES0196,Employee 196,Architect,Operations,PRJ007,100,Yes,Permanent,15-Apr-22,6,Oracle,SAP,PMP,Singapore,M Patel,118.00,115069.00,95,Active
+RES0197,Employee 197,BA,IT,PRJ047,50,No,Permanent,12-Jun-22,4,Dynamics 365,Power BI,PMP,Singapore,V Mehta,118.00,115069.00,68,Released
+RES0198,Employee 198,BA,Operations,PRJ030,100,No,Permanent,15-May-24,6,AWS,Power BI,PMP,India,M Patel,118.00,115069.00,95,Released
+RES0199,Employee 199,Architect,IT,PRJ075,25,Yes,Contract,24-Apr-24,8,Salesforce,Power BI,AZ-900,Australia,M Patel,118.00,115069.00,93,Released
+RES0200,Employee 200,Architect,Marketing,PRJ031,50,No,Contract,17-Sep-22,8,Azure,SAP,AZ-900,UK,V Mehta,118.00,115069.00,77,Released
+RES0201,Employee 201,Architect,Operations,PRJ075,50,No,Permanent,22-Dec-22,10,Dynamics 365,SAP,None,Australia,S Verma,118.00,115069.00,96,Released
+RES0202,Employee 202,PM,HR,PRJ025,50,Yes,Permanent,28-Sep-22,19,Azure,Power BI,PL-300,USA,N Kumar,118.00,115069.00,69,Released
+RES0203,Employee 203,Developer,Marketing,PRJ057,50,No,Permanent,23-Nov-23,14,Azure,Oracle,CSM,Germany,V Mehta,118.00,115069.00,97,Active
+RES0204,Employee 204,Architect,IT,PRJ013,25,Yes,Contract,05-Jun-22,5,Salesforce,Dynamics 365,PMP,India,R Singh,118.00,115069.00,63,Released
+RES0205,Employee 205,PM,Marketing,PRJ057,100,Yes,Contract,18-Jun-22,15,Power BI,Oracle,CSM,USA,V Mehta,118.00,115069.00,88,Active
+RES0206,Employee 206,Tester,Operations,PRJ075,75,Yes,Contract,08-Feb-24,12,Power BI,AWS,AZ-900,Australia,R Singh,118.00,115069.00,90,Released
+RES0207,Employee 207,Tester,Finance,PRJ084,75,Yes,Permanent,14-Jan-23,18,Power BI,AWS,PL-300,UK,V Mehta,118.00,115069.00,60,Active
+RES0208,Employee 208,Tester,Marketing,PRJ006,50,No,Contract,25-Jan-23,2,SAP,SAP,CSM,USA,M Patel,118.00,115069.00,72,Active
+RES0209,Employee 209,BA,IT,PRJ061,100,Yes,Contract,07-Feb-24,8,Power BI,SAP,CSM,UK,P Gupta,118.00,115069.00,98,Active
+RES0210,Employee 210,Tester,Operations,PRJ045,100,No,Permanent,14-Apr-24,1,Power BI,Azure,AZ-900,Australia,S Verma,118.00,115069.00,75,Released
+RES0211,Employee 211,PM,Finance,PRJ009,25,No,Permanent,10-Jun-23,5,Azure,AWS,PMP,USA,S Verma,118.00,115069.00,75,Active
+RES0212,Employee 212,Developer,Operations,PRJ065,25,No,Contract,18-Feb-24,15,Azure,Power BI,PMP,UK,R Singh,118.00,115069.00,89,Active
+RES0213,Employee 213,BA,Finance,PRJ100,50,Yes,Contract,09-Aug-22,18,Salesforce,AWS,AZ-900,USA,M Patel,118.00,115069.00,91,Active
+RES0214,Employee 214,BA,IT,PRJ070,75,No,Contract,09-Jun-22,14,AWS,Oracle,PL-300,UK,R Singh,118.00,115069.00,93,Released
+RES0215,Employee 215,Developer,Marketing,PRJ074,75,Yes,Permanent,21-Nov-23,5,Power BI,Salesforce,None,Germany,A Sharma,118.00,115069.00,96,Active
+RES0216,Employee 216,Tester,Finance,PRJ093,25,No,Contract,16-Jul-23,9,Oracle,Oracle,None,Germany,A Sharma,118.00,115069.00,92,Active
+RES0217,Employee 217,Architect,Marketing,PRJ020,100,Yes,Contract,03-Jul-24,11,AWS,Power BI,None,USA,S Verma,118.00,115069.00,77,Active
+RES0218,Employee 218,Architect,Finance,PRJ039,25,No,Contract,12-Oct-23,3,Azure,Salesforce,AZ-900,Singapore,A Sharma,118.00,115069.00,69,Released
+RES0219,Employee 219,PM,HR,PRJ024,100,Yes,Contract,24-Apr-24,8,Salesforce,Azure,None,Australia,R Singh,118.00,115069.00,96,Released
+RES0220,Employee 220,BA,Operations,PRJ091,100,No,Contract,23-Aug-22,15,Oracle,Azure,CSM,Australia,A Sharma,118.00,115069.00,87,Released
+RES0221,Employee 221,Developer,IT,PRJ081,75,Yes,Contract,29-Nov-22,6,Dynamics 365,Oracle,PL-300,India,N Kumar,118.00,115069.00,100,Released
+RES0222,Employee 222,Developer,Operations,PRJ061,25,Yes,Permanent,10-Dec-24,8,Dynamics 365,AWS,PL-300,UK,S Verma,118.00,115069.00,91,Released
+RES0223,Employee 223,BA,Finance,PRJ002,50,No,Contract,10-Jun-24,14,Oracle,Salesforce,PMP,Germany,R Singh,118.00,115069.00,86,Released
+RES0224,Employee 224,Tester,Finance,PRJ008,25,Yes,Permanent,12-Sep-23,20,Dynamics 365,Azure,CSM,Germany,P Gupta,118.00,115069.00,94,Active
+RES0225,Employee 225,PM,Marketing,PRJ043,75,No,Permanent,20-Sep-24,6,Oracle,Oracle,AZ-900,Germany,S Verma,118.00,115069.00,72,Released
+RES0226,Employee 226,Tester,HR,PRJ070,25,No,Contract,17-Mar-24,18,Power BI,Salesforce,None,India,N Kumar,118.00,115069.00,70,Released
+RES0227,Employee 227,BA,Operations,PRJ020,50,Yes,Contract,28-Dec-23,10,Salesforce,SAP,PL-300,UK,P Gupta,118.00,115069.00,100,Active
+RES0228,Employee 228,Developer,Operations,PRJ041,50,Yes,Contract,31-May-24,6,Azure,AWS,None,Germany,A Sharma,118.00,115069.00,97,Active
+RES0229,Employee 229,PM,Marketing,PRJ057,50,Yes,Permanent,20-Sep-23,16,SAP,AWS,PL-300,Australia,A Sharma,118.00,115069.00,76,Active
+RES0230,Employee 230,Developer,Finance,PRJ021,75,No,Permanent,18-Nov-22,15,Azure,Power BI,PMP,Germany,M Patel,118.00,115069.00,81,Active
+RES0231,Employee 231,Architect,IT,PRJ068,75,Yes,Contract,22-Jan-24,11,SAP,AWS,PL-300,USA,V Mehta,118.00,115069.00,85,Released
+RES0232,Employee 232,Tester,Sales,PRJ082,50,No,Contract,27-Jan-25,16,Azure,Salesforce,None,Singapore,M Patel,118.00,115069.00,96,Active
+RES0233,Employee 233,Architect,Finance,PRJ044,25,Yes,Contract,20-Mar-23,19,SAP,Salesforce,PL-300,USA,A Sharma,118.00,115069.00,73,Released
+RES0234,Employee 234,PM,Operations,PRJ006,50,No,Permanent,12-Jan-23,5,AWS,Azure,None,USA,M Patel,118.00,115069.00,85,Released
+RES0235,Employee 235,Tester,HR,PRJ100,100,No,Permanent,26-Mar-23,9,Salesforce,Salesforce,AZ-900,India,V Mehta,118.00,115069.00,77,Active
+RES0236,Employee 236,PM,Finance,PRJ098,25,No,Permanent,06-Jan-25,10,Power BI,Azure,PL-300,USA,R Singh,118.00,115069.00,91,Active
+RES0237,Employee 237,Developer,Finance,PRJ001,50,No,Permanent,23-Feb-25,4,Oracle,AWS,PL-300,Singapore,A Sharma,118.00,115069.00,97,Active
+RES0238,Employee 238,PM,Sales,PRJ071,25,No,Contract,22-Dec-24,19,AWS,Salesforce,None,UK,V Mehta,118.00,115069.00,99,Released
+RES0239,Employee 239,Developer,HR,PRJ062,50,Yes,Permanent,15-Nov-23,14,Power BI,Power BI,PL-300,Singapore,N Kumar,118.00,115069.00,88,Active
+RES0240,Employee 240,Developer,HR,PRJ096,100,Yes,Permanent,24-Sep-23,1,Salesforce,Power BI,CSM,Germany,A Sharma,118.00,115069.00,82,Released
+RES0241,Employee 241,Tester,HR,PRJ061,50,Yes,Permanent,10-Apr-22,7,Power BI,Azure,PL-300,India,V Mehta,118.00,115069.00,72,Released
+RES0242,Employee 242,PM,HR,PRJ074,50,Yes,Contract,22-Aug-23,17,Dynamics 365,SAP,CSM,USA,M Patel,118.00,115069.00,75,Released
+RES0243,Employee 243,PM,HR,PRJ038,50,Yes,Contract,07-Feb-24,2,Dynamics 365,Oracle,CSM,India,N Kumar,118.00,115069.00,61,Released
+RES0244,Employee 244,Architect,HR,PRJ057,50,Yes,Permanent,22-May-23,17,AWS,Dynamics 365,AZ-900,USA,P Gupta,118.00,115069.00,64,Active
+RES0245,Employee 245,PM,Finance,PRJ054,25,No,Contract,23-Jul-23,18,SAP,SAP,PMP,UK,M Patel,118.00,115069.00,91,Active
+RES0246,Employee 246,Architect,Marketing,PRJ052,100,Yes,Contract,23-Jul-23,18,Dynamics 365,Oracle,None,UK,M Patel,118.00,115069.00,72,Active
+RES0247,Employee 247,BA,HR,PRJ005,50,Yes,Contract,17-Dec-23,8,Oracle,Azure,None,Germany,P Gupta,118.00,115069.00,64,Active
+RES0248,Employee 248,Developer,Operations,PRJ056,50,No,Permanent,19-Sep-24,17,Dynamics 365,AWS,CSM,USA,P Gupta,118.00,115069.00,100,Released
+RES0249,Employee 249,Architect,Marketing,PRJ001,25,Yes,Contract,25-Sep-23,20,Power BI,Azure,PL-300,India,N Kumar,118.00,115069.00,92,Released
+RES0250,Employee 250,Tester,IT,PRJ092,100,No,Permanent,30-Nov-23,6,Oracle,AWS,AZ-900,India,P Gupta,118.00,115069.00,82,Active
+RES0251,Employee 251,Developer,Marketing,PRJ075,50,No,Permanent,26-Sep-22,19,Salesforce,Salesforce,PMP,Germany,K Rao,118.00,115069.00,83,Released
+RES0252,Employee 252,Architect,Sales,PRJ072,100,No,Contract,16-Jul-24,16,Power BI,Dynamics 365,PL-300,Singapore,S Verma,118.00,115069.00,79,Released
+RES0253,Employee 253,Developer,IT,PRJ034,75,Yes,Contract,17-Apr-23,20,Power BI,Oracle,AZ-900,India,V Mehta,118.00,115069.00,75,Released
+RES0254,Employee 254,Architect,Marketing,PRJ046,50,No,Permanent,05-Feb-22,17,Power BI,Dynamics 365,CSM,Australia,S Verma,118.00,115069.00,73,Active
+RES0255,Employee 255,BA,Finance,PRJ093,75,Yes,Contract,08-Nov-22,7,Salesforce,Power BI,CSM,USA,S Verma,118.00,115069.00,70,Released
+RES0256,Employee 256,Architect,Finance,PRJ047,75,No,Contract,23-Jun-23,4,Dynamics 365,Oracle,PL-300,USA,V Mehta,118.00,115069.00,90,Released
+RES0257,Employee 257,Tester,IT,PRJ068,75,Yes,Permanent,29-Jul-24,6,Dynamics 365,AWS,CSM,Germany,P Gupta,118.00,115069.00,69,Active
+RES0258,Employee 258,BA,IT,PRJ068,100,Yes,Permanent,26-Sep-22,12,Oracle,Azure,AZ-900,UK,R Singh,118.00,115069.00,83,Active
+RES0259,Employee 259,PM,HR,PRJ060,100,Yes,Permanent,11-Feb-24,3,SAP,Azure,None,USA,A Sharma,118.00,115069.00,99,Released
+RES0260,Employee 260,Tester,Operations,PRJ065,25,Yes,Permanent,23-Sep-23,18,Power BI,Oracle,CSM,Singapore,K Rao,118.00,115069.00,61,Released
+RES0261,Employee 261,BA,Marketing,PRJ091,75,Yes,Permanent,28-Nov-24,12,Salesforce,SAP,None,India,M Patel,118.00,115069.00,67,Released
+RES0262,Employee 262,PM,Operations,PRJ024,25,Yes,Contract,11-Feb-23,6,Oracle,Power BI,CSM,UK,S Verma,118.00,115069.00,79,Released
+RES0263,Employee 263,Architect,HR,PRJ079,25,Yes,Contract,24-May-22,5,Power BI,Azure,PMP,UK,K Rao,118.00,115069.00,71,Released
+RES0264,Employee 264,Architect,IT,PRJ060,75,No,Permanent,09-Jul-24,7,Oracle,AWS,PL-300,UK,S Verma,118.00,115069.00,72,Active
+RES0265,Employee 265,Tester,HR,PRJ010,50,Yes,Contract,01-May-22,17,AWS,Power BI,PMP,India,P Gupta,118.00,115069.00,62,Active
+RES0266,Employee 266,Developer,Finance,PRJ028,100,No,Contract,05-Feb-25,12,Dynamics 365,Salesforce,None,USA,A Sharma,118.00,115069.00,93,Active
+RES0267,Employee 267,BA,IT,PRJ015,100,Yes,Contract,05-Apr-24,5,Azure,Dynamics 365,PMP,Singapore,A Sharma,118.00,115069.00,83,Active
+RES0268,Employee 268,Architect,Operations,PRJ009,25,Yes,Contract,30-Apr-23,1,Salesforce,Azure,CSM,Australia,V Mehta,118.00,115069.00,76,Released
+RES0269,Employee 269,Developer,Finance,PRJ089,75,Yes,Contract,05-Apr-22,15,AWS,Power BI,PMP,Germany,P Gupta,118.00,115069.00,93,Active
+RES0270,Employee 270,PM,Sales,PRJ086,25,No,Contract,28-Nov-23,2,Salesforce,Salesforce,CSM,USA,R Singh,118.00,115069.00,79,Active
+RES0271,Employee 271,Developer,Finance,PRJ012,100,Yes,Contract,21-Jun-23,3,Dynamics 365,SAP,None,UK,K Rao,118.00,115069.00,85,Active
+RES0272,Employee 272,Architect,Finance,PRJ054,50,No,Permanent,15-Dec-24,3,SAP,Dynamics 365,None,Australia,S Verma,118.00,115069.00,85,Released
+RES0273,Employee 273,BA,Finance,PRJ083,100,No,Contract,08-Sep-23,17,Azure,SAP,AZ-900,USA,P Gupta,118.00,115069.00,82,Active
+RES0274,Employee 274,Tester,Sales,PRJ028,75,Yes,Permanent,22-Aug-22,11,AWS,Power BI,AZ-900,Australia,N Kumar,118.00,115069.00,62,Active
+RES0275,Employee 275,Tester,Sales,PRJ011,75,Yes,Permanent,15-Mar-25,3,Power BI,SAP,PMP,Germany,A Sharma,118.00,115069.00,80,Released
+RES0276,Employee 276,Tester,Sales,PRJ076,75,Yes,Contract,13-Apr-25,5,Azure,SAP,None,USA,V Mehta,118.00,115069.00,66,Active
+RES0277,Employee 277,Architect,Finance,PRJ026,75,No,Permanent,13-Aug-23,4,Dynamics 365,Oracle,None,Germany,V Mehta,118.00,115069.00,73,Released
+RES0278,Employee 278,BA,Operations,PRJ087,25,Yes,Permanent,31-Oct-24,4,AWS,AWS,CSM,Singapore,M Patel,118.00,115069.00,87,Released
+RES0279,Employee 279,Architect,Operations,PRJ070,25,No,Permanent,20-Feb-25,7,Azure,Power BI,AZ-900,India,P Gupta,118.00,115069.00,60,Active
+RES0280,Employee 280,Developer,Operations,PRJ095,100,No,Contract,27-Oct-22,5,Salesforce,Dynamics 365,AZ-900,India,K Rao,118.00,115069.00,91,Active
+RES0281,Employee 281,Architect,Operations,PRJ067,75,Yes,Permanent,11-May-23,9,Salesforce,SAP,None,USA,N Kumar,118.00,115069.00,90,Active
+RES0282,Employee 282,BA,Operations,PRJ032,50,No,Permanent,02-Sep-22,6,Power BI,Dynamics 365,AZ-900,Singapore,N Kumar,118.00,115069.00,83,Active
+RES0283,Employee 283,BA,IT,PRJ080,75,No,Permanent,21-Jul-22,9,Power BI,Dynamics 365,PL-300,India,M Patel,118.00,115069.00,62,Active
+RES0284,Employee 284,Architect,Finance,PRJ023,75,No,Contract,20-Dec-22,16,Salesforce,Power BI,None,Singapore,R Singh,118.00,115069.00,84,Active
+RES0285,Employee 285,Tester,Marketing,PRJ014,50,Yes,Permanent,18-May-23,19,Oracle,AWS,PL-300,USA,V Mehta,118.00,115069.00,68,Released
+RES0286,Employee 286,PM,Finance,PRJ084,75,No,Contract,27-Mar-23,5,SAP,AWS,PL-300,Germany,P Gupta,118.00,115069.00,100,Active
+RES0287,Employee 287,Tester,HR,PRJ007,100,Yes,Permanent,06-Feb-22,9,Azure,Azure,AZ-900,UK,N Kumar,118.00,115069.00,70,Active
+RES0288,Employee 288,Architect,HR,PRJ093,25,No,Contract,28-Nov-23,19,Salesforce,Oracle,None,India,A Sharma,118.00,115069.00,62,Released
+RES0289,Employee 289,Developer,Sales,PRJ055,75,No,Permanent,16-Dec-22,9,Azure,Oracle,PL-300,Germany,A Sharma,118.00,115069.00,96,Released
+RES0290,Employee 290,Architect,Sales,PRJ082,75,No,Permanent,26-May-22,17,Power BI,SAP,PMP,India,N Kumar,118.00,115069.00,85,Active
+RES0291,Employee 291,Tester,Operations,PRJ063,100,Yes,Contract,13-Mar-25,15,Dynamics 365,Power BI,PMP,Germany,M Patel,118.00,115069.00,74,Released
+RES0292,Employee 292,Developer,Marketing,PRJ017,100,No,Permanent,24-Jun-22,18,Oracle,Dynamics 365,CSM,Singapore,S Verma,118.00,115069.00,86,Released
+RES0293,Employee 293,BA,IT,PRJ029,25,No,Contract,19-May-22,16,Dynamics 365,Dynamics 365,None,Germany,K Rao,118.00,115069.00,83,Released
+RES0294,Employee 294,Developer,Operations,PRJ036,100,No,Permanent,01-Nov-22,2,Oracle,Power BI,PMP,India,A Sharma,118.00,115069.00,75,Active
+RES0295,Employee 295,Architect,HR,PRJ024,50,No,Contract,24-Jul-23,15,SAP,SAP,None,USA,V Mehta,118.00,115069.00,84,Released
+RES0296,Employee 296,Tester,HR,PRJ070,25,Yes,Permanent,07-Oct-24,3,Salesforce,Oracle,PL-300,UK,P Gupta,118.00,115069.00,62,Active
+RES0297,Employee 297,Tester,HR,PRJ051,75,Yes,Permanent,01-Jun-23,12,Power BI,SAP,None,Australia,N Kumar,118.00,115069.00,70,Active
+RES0298,Employee 298,Tester,Operations,PRJ043,100,Yes,Permanent,03-Jul-22,15,Azure,AWS,None,UK,K Rao,118.00,115069.00,86,Active
+RES0299,Employee 299,BA,Marketing,PRJ052,100,No,Permanent,16-Jun-24,14,Salesforce,SAP,PMP,India,M Patel,118.00,115069.00,69,Active
+RES0300,Employee 300,PM,Operations,PRJ092,100,No,Permanent,12-Oct-22,2,Oracle,AWS,PMP,Singapore,P Gupta,118.00,115069.00,73,Active
+RES0301,Employee 301,Developer,IT,PRJ027,75,No,Permanent,27-Jun-23,5,AWS,Dynamics 365,CSM,Australia,V Mehta,118.00,115069.00,72,Active
+RES0302,Employee 302,Architect,Marketing,PRJ024,100,No,Contract,21-Sep-22,16,Dynamics 365,AWS,None,UK,V Mehta,118.00,115069.00,94,Active
+RES0303,Employee 303,Tester,Finance,PRJ004,75,No,Permanent,09-Apr-22,16,SAP,SAP,PL-300,India,N Kumar,118.00,115069.00,95,Active
+RES0304,Employee 304,Developer,Operations,PRJ043,25,Yes,Permanent,10-May-24,8,Salesforce,Power BI,PL-300,India,M Patel,118.00,115069.00,68,Active
+RES0305,Employee 305,Architect,IT,PRJ002,50,Yes,Contract,18-Mar-22,15,SAP,Dynamics 365,AZ-900,USA,P Gupta,118.00,115069.00,78,Active
+RES0306,Employee 306,Architect,Finance,PRJ092,25,No,Permanent,05-Dec-22,19,Power BI,Dynamics 365,None,Australia,R Singh,118.00,115069.00,84,Active
+RES0307,Employee 307,BA,HR,PRJ003,100,No,Contract,04-Jan-23,3,Azure,SAP,PL-300,USA,M Patel,118.00,115069.00,79,Active
+RES0308,Employee 308,Developer,Sales,PRJ093,100,No,Permanent,21-Jul-23,2,Oracle,Power BI,AZ-900,Germany,A Sharma,118.00,115069.00,95,Released
+RES0309,Employee 309,PM,HR,PRJ041,75,Yes,Permanent,28-Sep-24,7,Azure,SAP,AZ-900,UK,S Verma,118.00,115069.00,84,Active
+RES0310,Employee 310,Architect,IT,PRJ073,100,No,Contract,09-Sep-23,6,Oracle,Dynamics 365,PMP,Singapore,K Rao,118.00,115069.00,77,Active
+RES0311,Employee 311,BA,Operations,PRJ088,25,No,Contract,03-Jan-23,19,SAP,Dynamics 365,None,USA,P Gupta,118.00,115069.00,81,Active
+RES0312,Employee 312,Tester,Marketing,PRJ004,25,No,Contract,14-Aug-22,15,Azure,Azure,AZ-900,Germany,K Rao,118.00,115069.00,64,Active
+RES0313,Employee 313,Architect,Operations,PRJ070,25,No,Permanent,26-May-24,1,SAP,AWS,None,Germany,R Singh,118.00,115069.00,79,Released
+RES0314,Employee 314,Tester,IT,PRJ030,100,No,Permanent,23-Mar-24,10,Oracle,Power BI,None,USA,P Gupta,118.00,115069.00,66,Active
+RES0315,Employee 315,BA,Operations,PRJ077,50,No,Contract,11-Jan-24,2,Power BI,Dynamics 365,PL-300,UK,K Rao,118.00,115069.00,84,Active
+RES0316,Employee 316,Architect,IT,PRJ054,75,No,Permanent,10-Mar-24,15,Power BI,Oracle,PMP,Germany,V Mehta,118.00,115069.00,97,Active
+RES0317,Employee 317,Architect,Marketing,PRJ051,100,Yes,Permanent,11-Oct-22,9,AWS,Azure,None,India,N Kumar,118.00,115069.00,94,Active
+RES0318,Employee 318,Developer,Operations,PRJ072,25,Yes,Permanent,05-Jan-22,15,Azure,Azure,PMP,USA,V Mehta,118.00,115069.00,76,Released
+RES0319,Employee 319,Developer,Sales,PRJ051,50,Yes,Contract,11-Oct-24,17,Salesforce,Salesforce,PL-300,Singapore,S Verma,118.00,115069.00,77,Released
+RES0320,Employee 320,BA,Sales,PRJ059,25,No,Contract,20-May-22,6,Dynamics 365,Oracle,AZ-900,Australia,K Rao,118.00,115069.00,81,Released
+RES0321,Employee 321,Architect,Finance,PRJ025,25,Yes,Contract,23-Nov-22,10,AWS,Power BI,AZ-900,Germany,A Sharma,118.00,115069.00,83,Released
+RES0322,Employee 322,Tester,Operations,PRJ039,25,No,Permanent,17-May-24,6,SAP,Azure,PMP,Germany,R Singh,118.00,115069.00,60,Active
+RES0323,Employee 323,Tester,Marketing,PRJ068,50,No,Permanent,13-Mar-24,1,SAP,Azure,CSM,UK,V Mehta,118.00,115069.00,89,Active
+RES0324,Employee 324,Tester,Operations,PRJ098,75,No,Contract,30-Jun-24,16,Dynamics 365,Dynamics 365,AZ-900,USA,R Singh,118.00,115069.00,68,Released
+RES0325,Employee 325,Developer,Sales,PRJ033,25,Yes,Contract,04-Jul-24,15,Power BI,Oracle,CSM,USA,P Gupta,118.00,115069.00,87,Released
+RES0326,Employee 326,Tester,Finance,PRJ001,50,Yes,Contract,29-May-22,18,Power BI,Azure,PL-300,Singapore,R Singh,118.00,115069.00,88,Active
+RES0327,Employee 327,BA,IT,PRJ051,100,Yes,Contract,08-Jul-24,14,SAP,SAP,CSM,Singapore,K Rao,118.00,115069.00,80,Active
+RES0328,Employee 328,BA,IT,PRJ081,25,Yes,Permanent,29-Feb-24,15,AWS,Power BI,AZ-900,USA,R Singh,118.00,115069.00,75,Active
+RES0329,Employee 329,PM,HR,PRJ089,100,Yes,Contract,06-Apr-22,19,Azure,SAP,None,India,M Patel,118.00,115069.00,92,Released
+RES0330,Employee 330,Developer,IT,PRJ047,100,No,Permanent,10-Jan-24,16,Oracle,Power BI,PMP,Australia,K Rao,118.00,115069.00,63,Active
+RES0331,Employee 331,Architect,Sales,PRJ099,25,No,Contract,04-Apr-24,2,Azure,Power BI,None,India,V Mehta,118.00,115069.00,97,Active
+RES0332,Employee 332,Tester,Marketing,PRJ055,50,No,Permanent,22-Mar-22,18,Oracle,Dynamics 365,None,Germany,N Kumar,118.00,115069.00,71,Active
+RES0333,Employee 333,Architect,HR,PRJ069,50,No,Permanent,29-Jun-23,13,Oracle,Salesforce,CSM,Singapore,R Singh,118.00,115069.00,64,Active
+RES0334,Employee 334,BA,Marketing,PRJ003,50,No,Permanent,12-Aug-24,13,Power BI,Power BI,None,Australia,P Gupta,118.00,115069.00,81,Released
+RES0335,Employee 335,Tester,IT,PRJ039,25,Yes,Contract,01-Oct-23,17,SAP,Salesforce,AZ-900,Singapore,S Verma,118.00,115069.00,78,Released
+RES0336,Employee 336,Architect,HR,PRJ098,50,Yes,Contract,16-Feb-24,4,Salesforce,Azure,CSM,USA,S Verma,118.00,115069.00,95,Released
+RES0337,Employee 337,Architect,HR,PRJ008,75,Yes,Contract,27-Mar-24,16,Salesforce,AWS,CSM,USA,N Kumar,118.00,115069.00,100,Released
+RES0338,Employee 338,Architect,HR,PRJ052,75,Yes,Permanent,09-May-22,5,AWS,SAP,None,Germany,A Sharma,118.00,115069.00,84,Active
+RES0339,Employee 339,BA,HR,PRJ065,25,No,Contract,23-Apr-22,7,Dynamics 365,AWS,None,UK,S Verma,118.00,115069.00,76,Released
+RES0340,Employee 340,Developer,Operations,PRJ076,75,No,Contract,21-May-23,11,Oracle,AWS,CSM,UK,P Gupta,118.00,115069.00,68,Released
+RES0341,Employee 341,PM,Sales,PRJ002,50,Yes,Contract,21-Aug-23,9,AWS,Salesforce,AZ-900,UK,P Gupta,118.00,115069.00,99,Active
+RES0342,Employee 342,Tester,HR,PRJ051,100,No,Contract,17-Aug-22,3,Oracle,Dynamics 365,CSM,USA,K Rao,118.00,115069.00,97,Active
+RES0343,Employee 343,PM,Operations,PRJ098,100,Yes,Permanent,04-Feb-23,10,Azure,Power BI,PMP,Singapore,S Verma,118.00,115069.00,90,Active
+RES0344,Employee 344,PM,HR,PRJ056,100,No,Contract,26-Mar-25,6,Dynamics 365,Power BI,PMP,Singapore,K Rao,118.00,115069.00,91,Active
+RES0345,Employee 345,Tester,Operations,PRJ094,50,Yes,Contract,03-Aug-23,19,Oracle,AWS,None,Australia,S Verma,118.00,115069.00,98,Active
+RES0346,Employee 346,BA,Sales,PRJ016,100,No,Contract,25-Apr-23,16,SAP,Power BI,CSM,India,N Kumar,118.00,115069.00,70,Released
+RES0347,Employee 347,Developer,Operations,PRJ068,75,Yes,Permanent,29-Aug-24,5,Dynamics 365,Azure,CSM,UK,K Rao,118.00,115069.00,87,Released
+RES0348,Employee 348,Developer,IT,PRJ090,25,Yes,Contract,07-Jul-22,6,AWS,AWS,AZ-900,USA,V Mehta,118.00,115069.00,69,Active
+RES0349,Employee 349,BA,Operations,PRJ002,25,No,Permanent,15-Aug-22,1,Dynamics 365,SAP,AZ-900,UK,P Gupta,118.00,115069.00,69,Active
+RES0350,Employee 350,Architect,Sales,PRJ061,75,Yes,Contract,10-Apr-23,15,SAP,Power BI,PMP,USA,V Mehta,118.00,115069.00,67,Released
+RES0351,Employee 351,Tester,Finance,PRJ089,25,Yes,Permanent,03-Sep-22,2,Salesforce,Oracle,CSM,Australia,N Kumar,118.00,115069.00,89,Active
+RES0352,Employee 352,Architect,IT,PRJ078,50,No,Contract,07-Aug-23,12,SAP,Dynamics 365,PL-300,Singapore,R Singh,118.00,115069.00,63,Released
+RES0353,Employee 353,Developer,Marketing,PRJ036,75,Yes,Contract,10-Mar-24,17,Power BI,Power BI,PL-300,Australia,K Rao,118.00,115069.00,70,Released
+RES0354,Employee 354,Tester,Finance,PRJ058,75,No,Contract,05-Jan-23,6,SAP,Power BI,None,UK,P Gupta,118.00,115069.00,74,Active
+RES0355,Employee 355,Tester,Operations,PRJ027,50,No,Permanent,22-Aug-23,20,Azure,Oracle,CSM,USA,P Gupta,118.00,115069.00,93,Released
+RES0356,Employee 356,Tester,Finance,PRJ088,25,Yes,Contract,19-Sep-22,19,SAP,SAP,AZ-900,India,M Patel,118.00,115069.00,73,Active
+RES0357,Employee 357,Architect,IT,PRJ087,100,No,Contract,01-Jun-22,6,Dynamics 365,Azure,CSM,Germany,R Singh,118.00,115069.00,78,Active
+RES0358,Employee 358,BA,Sales,PRJ049,100,Yes,Permanent,06-Feb-24,16,Salesforce,Dynamics 365,PMP,UK,A Sharma,118.00,115069.00,87,Active
+RES0359,Employee 359,Developer,Operations,PRJ045,100,Yes,Contract,06-Oct-22,19,Dynamics 365,Azure,PMP,Singapore,V Mehta,118.00,115069.00,61,Active
+RES0360,Employee 360,PM,Sales,PRJ046,50,Yes,Permanent,03-Feb-23,15,Azure,Power BI,PL-300,India,P Gupta,118.00,115069.00,85,Active
+RES0361,Employee 361,Tester,Finance,PRJ027,75,Yes,Contract,12-Jun-23,3,SAP,AWS,None,Germany,K Rao,118.00,115069.00,96,Released
+RES0362,Employee 362,BA,HR,PRJ087,50,No,Contract,17-Dec-23,20,Salesforce,Oracle,AZ-900,Singapore,P Gupta,118.00,115069.00,68,Active
+RES0363,Employee 363,PM,HR,PRJ069,75,Yes,Contract,22-Jul-22,5,Dynamics 365,Oracle,PMP,UK,N Kumar,118.00,115069.00,71,Released
+RES0364,Employee 364,Architect,IT,PRJ039,100,No,Contract,22-Oct-22,18,AWS,AWS,PL-300,Germany,P Gupta,118.00,115069.00,72,Released
+RES0365,Employee 365,PM,HR,PRJ068,50,Yes,Permanent,11-Apr-24,20,Salesforce,Azure,CSM,Australia,V Mehta,118.00,115069.00,67,Active
+RES0366,Employee 366,PM,Sales,PRJ016,25,Yes,Permanent,10-Aug-24,11,SAP,Salesforce,CSM,Australia,K Rao,118.00,115069.00,74,Active
+RES0367,Employee 367,BA,Marketing,PRJ019,25,No,Permanent,07-Apr-22,17,SAP,SAP,PMP,India,R Singh,118.00,115069.00,62,Released
+RES0368,Employee 368,Tester,Operations,PRJ046,50,Yes,Permanent,15-Apr-25,7,SAP,Salesforce,CSM,UK,V Mehta,118.00,115069.00,73,Released
+RES0369,Employee 369,Architect,Sales,PRJ086,25,No,Contract,06-Jan-22,11,Salesforce,Oracle,None,Australia,N Kumar,118.00,115069.00,95,Active
+RES0370,Employee 370,PM,IT,PRJ049,100,No,Contract,16-Oct-24,4,Azure,AWS,PMP,Singapore,P Gupta,118.00,115069.00,71,Released
+RES0371,Employee 371,PM,HR,PRJ058,25,No,Permanent,18-Mar-23,15,AWS,AWS,AZ-900,USA,R Singh,118.00,115069.00,67,Active
+RES0372,Employee 372,Developer,Marketing,PRJ012,50,Yes,Permanent,25-Sep-22,11,Power BI,Salesforce,PL-300,Germany,K Rao,118.00,115069.00,79,Active
+RES0373,Employee 373,Developer,HR,PRJ091,100,No,Permanent,10-Feb-25,11,AWS,Dynamics 365,AZ-900,UK,K Rao,118.00,115069.00,97,Released
+RES0374,Employee 374,Architect,HR,PRJ085,100,Yes,Contract,02-Jul-22,17,SAP,Dynamics 365,PL-300,Germany,K Rao,118.00,115069.00,65,Active
+RES0375,Employee 375,Architect,Finance,PRJ079,100,No,Permanent,23-Sep-22,18,SAP,Oracle,PL-300,Singapore,N Kumar,118.00,115069.00,64,Active
+RES0376,Employee 376,PM,Operations,PRJ072,50,Yes,Permanent,08-Nov-23,18,Oracle,AWS,PMP,UK,A Sharma,118.00,115069.00,79,Released
+RES0377,Employee 377,Architect,Sales,PRJ047,100,No,Permanent,06-Aug-23,10,Dynamics 365,Oracle,PL-300,Germany,K Rao,118.00,115069.00,95,Active
+RES0378,Employee 378,Tester,IT,PRJ011,50,Yes,Contract,20-Nov-23,3,Azure,Power BI,PL-300,India,K Rao,118.00,115069.00,65,Active
+RES0379,Employee 379,BA,Sales,PRJ020,75,No,Contract,16-Apr-22,8,Azure,Dynamics 365,PL-300,Singapore,S Verma,118.00,115069.00,88,Active
+RES0380,Employee 380,PM,IT,PRJ038,50,Yes,Permanent,23-Jul-22,6,Salesforce,Dynamics 365,AZ-900,India,A Sharma,118.00,115069.00,67,Active
+RES0381,Employee 381,BA,IT,PRJ015,50,No,Contract,24-Apr-22,18,AWS,SAP,CSM,Australia,M Patel,118.00,115069.00,75,Released
+RES0382,Employee 382,BA,Marketing,PRJ031,75,No,Permanent,14-Feb-22,8,Power BI,AWS,CSM,Singapore,R Singh,118.00,115069.00,72,Released
+RES0383,Employee 383,Developer,HR,PRJ065,100,Yes,Permanent,11-Jun-22,12,Dynamics 365,Dynamics 365,CSM,USA,N Kumar,118.00,115069.00,68,Released
+RES0384,Employee 384,BA,Finance,PRJ052,100,No,Permanent,18-Dec-22,9,Power BI,Dynamics 365,None,Australia,P Gupta,118.00,115069.00,63,Released
+RES0385,Employee 385,PM,Marketing,PRJ051,50,No,Contract,17-Dec-23,3,Salesforce,SAP,AZ-900,USA,N Kumar,118.00,115069.00,83,Released
+RES0386,Employee 386,Developer,Marketing,PRJ046,50,Yes,Permanent,31-Mar-22,12,Salesforce,SAP,PL-300,Singapore,R Singh,118.00,115069.00,95,Released
+RES0387,Employee 387,Architect,Marketing,PRJ082,75,No,Permanent,07-Dec-24,8,Salesforce,Salesforce,PMP,Germany,M Patel,118.00,115069.00,76,Active
+RES0388,Employee 388,Tester,Finance,PRJ029,50,No,Permanent,09-Sep-22,3,AWS,Azure,CSM,UK,A Sharma,118.00,115069.00,67,Released
+RES0389,Employee 389,Architect,Finance,PRJ100,100,No,Contract,23-Aug-22,15,Dynamics 365,Dynamics 365,CSM,USA,S Verma,118.00,115069.00,76,Active
+RES0390,Employee 390,Tester,Operations,PRJ100,75,Yes,Contract,22-Feb-24,17,Azure,Dynamics 365,AZ-900,India,S Verma,118.00,115069.00,90,Active
+RES0391,Employee 391,Tester,IT,PRJ008,100,Yes,Contract,25-Aug-22,20,Azure,Power BI,PL-300,Germany,S Verma,118.00,115069.00,68,Active
+RES0392,Employee 392,Developer,Finance,PRJ096,25,Yes,Permanent,30-May-22,9,AWS,Azure,PMP,Australia,M Patel,118.00,115069.00,70,Active
+RES0393,Employee 393,PM,Sales,PRJ069,100,No,Permanent,28-Aug-23,8,Power BI,Azure,None,UK,M Patel,118.00,115069.00,85,Released
+RES0394,Employee 394,Tester,IT,PRJ082,25,Yes,Permanent,23-Aug-23,9,Azure,Dynamics 365,PMP,USA,M Patel,118.00,115069.00,77,Released
+RES0395,Employee 395,PM,HR,PRJ096,75,No,Contract,29-Jan-25,5,Power BI,Azure,PMP,Singapore,S Verma,118.00,115069.00,93,Released
+RES0396,Employee 396,Tester,IT,PRJ092,25,No,Permanent,14-Jan-24,20,Power BI,Oracle,AZ-900,USA,V Mehta,118.00,115069.00,84,Released
+RES0397,Employee 397,BA,IT,PRJ087,25,Yes,Contract,26-Sep-24,2,Dynamics 365,AWS,PMP,Australia,A Sharma,118.00,115069.00,84,Active
+RES0398,Employee 398,PM,Finance,PRJ091,50,No,Permanent,16-Jul-23,6,Oracle,AWS,PL-300,Germany,N Kumar,118.00,115069.00,65,Released
+RES0399,Employee 399,Tester,IT,PRJ095,25,Yes,Contract,11-Sep-23,2,SAP,Azure,None,Singapore,V Mehta,118.00,115069.00,75,Released
+RES0400,Employee 400,Tester,Finance,PRJ065,75,No,Permanent,24-Jun-24,12,SAP,Oracle,PMP,UK,M Patel,118.00,115069.00,79,Released

@@ -1,0 +1,601 @@
+Milestone_ID,Project_ID,Milestone_Name,Milestone_Type,Planned_Date,Actual_Date,Status,Delay_Days,Owner
+ML0001,PRJ082,Test,Gate,28-Feb-25,26-Mar-25,Completed,26,M Patel
+ML0002,PRJ059,UAT,Stage,27-Feb-26,10-Mar-26,Pending,11,M Patel
+ML0003,PRJ012,Design,Stage,17-May-25,05-Jun-25,Completed,19,S Verma
+ML0004,PRJ071,Build,Stage,07-Oct-25,09-Oct-25,Pending,2,K Rao
+ML0005,PRJ010,UAT,Gate,10-Nov-26,10-Nov-26,Pending,0,M Patel
+ML0006,PRJ049,Test,Gate,01-Sep-25,17-Sep-25,Delayed,16,S Verma
+ML0007,PRJ058,UAT,Stage,11-Sep-25,11-Oct-25,Pending,30,R Singh
+ML0008,PRJ022,Build,Stage,17-Oct-25,12-Nov-25,Delayed,26,S Verma
+ML0009,PRJ030,Go Live,Gate,16-Jun-25,16-Jul-25,Pending,30,K Rao
+ML0010,PRJ053,Go Live,Stage,12-Aug-26,28-Aug-26,Delayed,16,K Rao
+ML0011,PRJ081,UAT,Stage,20-Feb-26,13-Mar-26,Pending,21,A Sharma
+ML0012,PRJ021,Go Live,Stage,26-Dec-26,24-Jan-27,Completed,29,S Verma
+ML0013,PRJ066,Test,Gate,26-Dec-25,10-Jan-26,Delayed,15,A Sharma
+ML0014,PRJ056,Go Live,Stage,22-Dec-25,12-Jan-26,Completed,21,P Gupta
+ML0015,PRJ069,Go Live,Stage,27-Jan-26,09-Feb-26,Pending,13,K Rao
+ML0016,PRJ083,Go Live,Gate,13-Nov-26,30-Nov-26,Delayed,17,A Sharma
+ML0017,PRJ059,Build,Gate,16-Aug-26,04-Sep-26,Completed,19,A Sharma
+ML0018,PRJ018,Build,Gate,06-Jul-25,27-Jul-25,Delayed,21,N Kumar
+ML0019,PRJ002,Go Live,Gate,29-Apr-26,22-May-26,Pending,23,A Sharma
+ML0020,PRJ052,UAT,Stage,15-Apr-25,15-Apr-25,Completed,0,A Sharma
+ML0021,PRJ072,Test,Gate,16-Dec-25,05-Jan-26,Pending,20,K Rao
+ML0022,PRJ012,Build,Gate,14-Mar-25,26-Mar-25,Delayed,12,R Singh
+ML0023,PRJ042,Design,Gate,25-Apr-26,14-May-26,Completed,19,V Mehta
+ML0024,PRJ065,Test,Stage,27-Jun-26,09-Jul-26,Delayed,12,V Mehta
+ML0025,PRJ081,UAT,Stage,27-Aug-26,26-Sep-26,Delayed,30,N Kumar
+ML0026,PRJ077,Build,Stage,24-Oct-26,09-Nov-26,Delayed,16,V Mehta
+ML0027,PRJ022,Build,Gate,07-Dec-25,04-Jan-26,Completed,28,M Patel
+ML0028,PRJ059,Go Live,Stage,18-Jul-26,14-Aug-26,Completed,27,R Singh
+ML0029,PRJ027,Go Live,Stage,14-May-26,05-Jun-26,Delayed,22,S Verma
+ML0030,PRJ040,Design,Stage,24-Jan-27,13-Feb-27,Pending,20,S Verma
+ML0031,PRJ031,Go Live,Gate,04-Dec-25,15-Dec-25,Delayed,11,M Patel
+ML0032,PRJ085,Build,Gate,30-Jan-26,17-Feb-26,Completed,18,M Patel
+ML0033,PRJ097,Build,Stage,09-Jun-26,09-Jun-26,Delayed,0,N Kumar
+ML0034,PRJ063,UAT,Gate,03-Oct-25,03-Oct-25,Pending,0,P Gupta
+ML0035,PRJ037,Go Live,Stage,14-Mar-25,17-Mar-25,Pending,3,N Kumar
+ML0036,PRJ089,Test,Stage,23-Mar-26,14-Apr-26,Delayed,22,A Sharma
+ML0037,PRJ099,UAT,Gate,03-Sep-26,06-Sep-26,Delayed,3,K Rao
+ML0038,PRJ062,Go Live,Gate,09-May-26,06-Jun-26,Delayed,28,V Mehta
+ML0039,PRJ013,Test,Stage,13-Jun-25,15-Jun-25,Pending,2,M Patel
+ML0040,PRJ084,Design,Gate,29-Aug-25,29-Aug-25,Delayed,0,A Sharma
+ML0041,PRJ020,Go Live,Gate,27-Dec-26,25-Jan-27,Completed,29,P Gupta
+ML0042,PRJ006,Test,Gate,20-May-25,30-May-25,Pending,10,R Singh
+ML0043,PRJ051,Go Live,Gate,16-Jan-26,31-Jan-26,Completed,15,N Kumar
+ML0044,PRJ080,Design,Stage,15-Dec-26,15-Dec-26,Delayed,0,A Sharma
+ML0045,PRJ056,Test,Stage,05-Feb-26,16-Feb-26,Completed,11,R Singh
+ML0046,PRJ011,Build,Gate,14-Jul-26,14-Jul-26,Pending,0,R Singh
+ML0047,PRJ004,Go Live,Gate,08-Jul-26,16-Jul-26,Completed,8,N Kumar
+ML0048,PRJ019,Test,Gate,02-Dec-25,01-Jan-26,Delayed,30,R Singh
+ML0049,PRJ070,Go Live,Gate,19-Nov-25,25-Nov-25,Completed,6,K Rao
+ML0050,PRJ092,Go Live,Gate,17-Nov-26,17-Nov-26,Pending,0,S Verma
+ML0051,PRJ020,Go Live,Gate,13-Dec-26,10-Jan-27,Completed,28,N Kumar
+ML0052,PRJ026,Go Live,Stage,22-May-25,15-Jun-25,Completed,24,V Mehta
+ML0053,PRJ090,Go Live,Stage,26-Nov-26,26-Nov-26,Pending,0,K Rao
+ML0054,PRJ093,Design,Gate,03-Mar-25,05-Mar-25,Completed,2,A Sharma
+ML0055,PRJ094,Test,Gate,24-Sep-25,24-Oct-25,Completed,30,R Singh
+ML0056,PRJ082,Design,Gate,02-Feb-25,02-Feb-25,Completed,0,N Kumar
+ML0057,PRJ076,Go Live,Gate,23-May-26,02-Jun-26,Delayed,10,P Gupta
+ML0058,PRJ096,Design,Gate,27-Dec-25,11-Jan-26,Completed,15,M Patel
+ML0059,PRJ074,Design,Stage,20-Dec-26,23-Dec-26,Delayed,3,V Mehta
+ML0060,PRJ044,Design,Stage,13-Dec-25,18-Dec-25,Completed,5,M Patel
+ML0061,PRJ027,Go Live,Stage,31-Jul-26,13-Aug-26,Delayed,13,V Mehta
+ML0062,PRJ004,Test,Gate,20-Oct-25,10-Nov-25,Pending,21,S Verma
+ML0063,PRJ077,Build,Gate,21-Feb-26,21-Feb-26,Delayed,0,A Sharma
+ML0064,PRJ043,Build,Gate,11-Aug-25,12-Aug-25,Completed,1,A Sharma
+ML0065,PRJ061,Design,Stage,14-Jun-25,10-Jul-25,Pending,26,R Singh
+ML0066,PRJ002,Test,Gate,16-Jun-26,11-Jul-26,Completed,25,A Sharma
+ML0067,PRJ032,Go Live,Gate,31-Oct-25,07-Nov-25,Delayed,7,S Verma
+ML0068,PRJ031,Build,Gate,27-Jul-26,07-Aug-26,Completed,11,S Verma
+ML0069,PRJ018,UAT,Gate,26-Dec-25,07-Jan-26,Delayed,12,R Singh
+ML0070,PRJ049,Test,Gate,15-Feb-26,15-Mar-26,Completed,28,P Gupta
+ML0071,PRJ024,Build,Gate,16-Nov-25,19-Nov-25,Delayed,3,M Patel
+ML0072,PRJ014,Test,Gate,30-Nov-25,30-Nov-25,Completed,0,P Gupta
+ML0073,PRJ082,Design,Gate,23-Mar-25,02-Apr-25,Completed,10,A Sharma
+ML0074,PRJ046,Go Live,Gate,11-Nov-25,29-Nov-25,Completed,18,K Rao
+ML0075,PRJ031,Test,Stage,11-May-26,11-May-26,Pending,0,M Patel
+ML0076,PRJ075,Build,Gate,06-May-26,31-May-26,Pending,25,V Mehta
+ML0077,PRJ029,Test,Stage,24-May-25,06-Jun-25,Delayed,13,K Rao
+ML0078,PRJ033,Go Live,Stage,30-Dec-26,13-Jan-27,Completed,14,M Patel
+ML0079,PRJ061,UAT,Gate,02-Mar-26,30-Mar-26,Pending,28,R Singh
+ML0080,PRJ072,Test,Gate,03-Oct-25,09-Oct-25,Completed,6,R Singh
+ML0081,PRJ084,Test,Stage,24-Mar-25,24-Mar-25,Pending,0,M Patel
+ML0082,PRJ032,Design,Gate,14-Sep-25,26-Sep-25,Delayed,12,M Patel
+ML0083,PRJ020,UAT,Stage,05-Jul-26,31-Jul-26,Completed,26,P Gupta
+ML0084,PRJ005,Go Live,Stage,05-Oct-25,17-Oct-25,Pending,12,A Sharma
+ML0085,PRJ012,Design,Stage,23-Feb-25,14-Mar-25,Pending,19,K Rao
+ML0086,PRJ061,Go Live,Gate,04-Apr-25,24-Apr-25,Pending,20,P Gupta
+ML0087,PRJ031,Go Live,Stage,17-Jun-26,02-Jul-26,Completed,15,K Rao
+ML0088,PRJ017,Build,Gate,03-May-25,04-May-25,Delayed,1,A Sharma
+ML0089,PRJ037,Go Live,Gate,25-Apr-25,17-May-25,Completed,22,P Gupta
+ML0090,PRJ014,Go Live,Stage,09-Nov-25,09-Nov-25,Delayed,0,P Gupta
+ML0091,PRJ060,Build,Gate,07-Jun-25,30-Jun-25,Delayed,23,P Gupta
+ML0092,PRJ060,Test,Stage,06-Apr-25,06-Apr-25,Pending,0,M Patel
+ML0093,PRJ077,Build,Gate,22-Mar-26,14-Apr-26,Delayed,23,S Verma
+ML0094,PRJ028,Build,Stage,12-Dec-25,18-Dec-25,Completed,6,K Rao
+ML0095,PRJ093,UAT,Gate,26-Jul-25,04-Aug-25,Pending,9,N Kumar
+ML0096,PRJ051,Go Live,Stage,14-Oct-25,14-Oct-25,Delayed,0,K Rao
+ML0097,PRJ013,UAT,Stage,20-May-25,20-May-25,Completed,0,P Gupta
+ML0098,PRJ050,Go Live,Gate,20-Jun-26,03-Jul-26,Completed,13,V Mehta
+ML0099,PRJ084,Test,Stage,29-Aug-25,17-Sep-25,Delayed,19,A Sharma
+ML0100,PRJ019,Go Live,Stage,01-Oct-25,22-Oct-25,Completed,21,R Singh
+ML0101,PRJ008,Design,Gate,20-Feb-26,21-Feb-26,Completed,1,V Mehta
+ML0102,PRJ058,Test,Gate,18-Aug-25,04-Sep-25,Completed,17,P Gupta
+ML0103,PRJ052,Test,Gate,13-Jul-25,05-Aug-25,Pending,23,S Verma
+ML0104,PRJ090,Design,Gate,05-Feb-26,01-Mar-26,Completed,24,S Verma
+ML0105,PRJ023,Test,Gate,31-Jul-25,05-Aug-25,Delayed,5,A Sharma
+ML0106,PRJ001,UAT,Gate,11-Dec-25,02-Jan-26,Delayed,22,V Mehta
+ML0107,PRJ027,Test,Stage,03-May-26,14-May-26,Pending,11,P Gupta
+ML0108,PRJ002,Design,Gate,17-May-26,17-May-26,Completed,0,P Gupta
+ML0109,PRJ069,Build,Gate,28-Dec-25,22-Jan-26,Completed,25,R Singh
+ML0110,PRJ097,Test,Stage,09-Mar-26,09-Mar-26,Completed,0,M Patel
+ML0111,PRJ008,Go Live,Gate,31-Dec-25,08-Jan-26,Completed,8,P Gupta
+ML0112,PRJ094,Test,Gate,26-Oct-25,01-Nov-25,Pending,6,A Sharma
+ML0113,PRJ056,UAT,Stage,04-Aug-26,14-Aug-26,Pending,10,V Mehta
+ML0114,PRJ009,UAT,Stage,29-May-25,08-Jun-25,Pending,10,V Mehta
+ML0115,PRJ005,Design,Gate,20-Dec-25,12-Jan-26,Pending,23,R Singh
+ML0116,PRJ046,Go Live,Stage,30-May-26,14-Jun-26,Pending,15,S Verma
+ML0117,PRJ085,Go Live,Gate,31-Jul-26,21-Aug-26,Pending,21,V Mehta
+ML0118,PRJ024,Design,Gate,29-Apr-25,25-May-25,Completed,26,P Gupta
+ML0119,PRJ077,Go Live,Gate,20-Apr-26,28-Apr-26,Completed,8,N Kumar
+ML0120,PRJ066,Test,Stage,05-Dec-25,04-Jan-26,Delayed,30,R Singh
+ML0121,PRJ037,Go Live,Stage,14-May-25,14-May-25,Completed,0,K Rao
+ML0122,PRJ033,Go Live,Stage,26-Jan-26,26-Jan-26,Pending,0,P Gupta
+ML0123,PRJ023,Design,Gate,09-Oct-25,22-Oct-25,Pending,13,P Gupta
+ML0124,PRJ013,UAT,Gate,20-Jun-25,24-Jun-25,Pending,4,S Verma
+ML0125,PRJ045,Build,Gate,11-Feb-27,11-Feb-27,Pending,0,V Mehta
+ML0126,PRJ090,Build,Gate,08-Jul-26,08-Jul-26,Pending,0,K Rao
+ML0127,PRJ034,Build,Gate,04-Aug-26,08-Aug-26,Completed,4,V Mehta
+ML0128,PRJ083,Design,Stage,01-Jul-27,25-Jul-27,Completed,24,M Patel
+ML0129,PRJ098,Go Live,Gate,25-Nov-26,25-Nov-26,Completed,0,P Gupta
+ML0130,PRJ063,Build,Gate,10-Aug-25,15-Aug-25,Pending,5,K Rao
+ML0131,PRJ058,Build,Stage,24-Jul-25,29-Jul-25,Completed,5,P Gupta
+ML0132,PRJ048,Go Live,Gate,10-Jul-25,28-Jul-25,Delayed,18,P Gupta
+ML0133,PRJ035,Test,Gate,27-Sep-25,02-Oct-25,Delayed,5,K Rao
+ML0134,PRJ074,UAT,Gate,08-May-26,31-May-26,Delayed,23,R Singh
+ML0135,PRJ072,Go Live,Gate,12-Dec-25,08-Jan-26,Completed,27,R Singh
+ML0136,PRJ087,Build,Gate,28-Mar-26,01-Apr-26,Delayed,4,M Patel
+ML0137,PRJ029,Test,Gate,09-Apr-25,28-Apr-25,Delayed,19,M Patel
+ML0138,PRJ055,Go Live,Stage,08-Nov-26,20-Nov-26,Completed,12,S Verma
+ML0139,PRJ028,Test,Gate,25-May-25,23-Jun-25,Completed,29,P Gupta
+ML0140,PRJ060,UAT,Stage,16-May-25,06-Jun-25,Pending,21,M Patel
+ML0141,PRJ039,Build,Gate,18-Jun-26,07-Jul-26,Delayed,19,A Sharma
+ML0142,PRJ053,Build,Gate,12-May-26,12-May-26,Delayed,0,N Kumar
+ML0143,PRJ057,Build,Stage,02-May-25,17-May-25,Pending,15,M Patel
+ML0144,PRJ040,Test,Stage,21-Aug-26,29-Aug-26,Delayed,8,A Sharma
+ML0145,PRJ046,Design,Gate,07-Jan-26,10-Jan-26,Completed,3,R Singh
+ML0146,PRJ076,Build,Gate,01-May-26,01-May-26,Pending,0,A Sharma
+ML0147,PRJ010,Go Live,Stage,13-Nov-26,13-Nov-26,Pending,0,R Singh
+ML0148,PRJ097,Design,Stage,29-Oct-26,09-Nov-26,Delayed,11,A Sharma
+ML0149,PRJ093,UAT,Gate,20-Mar-25,20-Mar-25,Delayed,0,K Rao
+ML0150,PRJ063,Design,Gate,28-May-26,08-Jun-26,Completed,11,M Patel
+ML0151,PRJ061,Test,Gate,01-Jun-25,26-Jun-25,Pending,25,N Kumar
+ML0152,PRJ024,Build,Stage,07-Jul-25,31-Jul-25,Pending,24,P Gupta
+ML0153,PRJ086,Go Live,Gate,29-Aug-25,20-Sep-25,Delayed,22,K Rao
+ML0154,PRJ053,Build,Stage,13-Jul-26,09-Aug-26,Completed,27,K Rao
+ML0155,PRJ042,Test,Stage,03-Dec-26,16-Dec-26,Completed,13,S Verma
+ML0156,PRJ054,UAT,Stage,23-Jun-26,23-Jun-26,Delayed,0,M Patel
+ML0157,PRJ066,Test,Stage,26-Nov-25,17-Dec-25,Pending,21,S Verma
+ML0158,PRJ035,Build,Stage,19-Jan-26,09-Feb-26,Delayed,21,N Kumar
+ML0159,PRJ027,UAT,Stage,21-Jul-26,23-Jul-26,Pending,2,M Patel
+ML0160,PRJ061,Test,Gate,08-May-25,25-May-25,Delayed,17,A Sharma
+ML0161,PRJ036,UAT,Gate,07-Apr-27,07-Apr-27,Pending,0,V Mehta
+ML0162,PRJ086,Build,Gate,03-Aug-25,24-Aug-25,Pending,21,N Kumar
+ML0163,PRJ098,Design,Gate,23-Jun-26,30-Jun-26,Delayed,7,M Patel
+ML0164,PRJ050,Test,Stage,30-Aug-26,11-Sep-26,Pending,12,R Singh
+ML0165,PRJ020,Design,Stage,09-Feb-27,19-Feb-27,Delayed,10,R Singh
+ML0166,PRJ024,Build,Stage,22-Aug-25,17-Sep-25,Pending,26,P Gupta
+ML0167,PRJ026,Go Live,Gate,30-Aug-25,04-Sep-25,Delayed,5,V Mehta
+ML0168,PRJ048,Design,Gate,11-Oct-25,27-Oct-25,Pending,16,R Singh
+ML0169,PRJ067,Go Live,Gate,04-Jun-25,12-Jun-25,Delayed,8,V Mehta
+ML0170,PRJ005,UAT,Gate,21-Sep-25,24-Sep-25,Completed,3,M Patel
+ML0171,PRJ007,Test,Stage,06-Jul-26,17-Jul-26,Pending,11,R Singh
+ML0172,PRJ066,Test,Stage,23-Jan-26,27-Jan-26,Completed,4,V Mehta
+ML0173,PRJ083,Design,Gate,07-Dec-26,29-Dec-26,Delayed,22,P Gupta
+ML0174,PRJ042,Build,Gate,31-Jan-26,09-Feb-26,Completed,9,K Rao
+ML0175,PRJ014,Go Live,Stage,06-Mar-25,17-Mar-25,Delayed,11,N Kumar
+ML0176,PRJ064,UAT,Gate,18-Sep-25,18-Sep-25,Completed,0,A Sharma
+ML0177,PRJ024,Design,Gate,11-Jun-25,08-Jul-25,Completed,27,S Verma
+ML0178,PRJ050,Go Live,Stage,04-Jul-26,09-Jul-26,Pending,5,V Mehta
+ML0179,PRJ027,UAT,Stage,01-May-26,14-May-26,Pending,13,R Singh
+ML0180,PRJ009,Design,Gate,26-Sep-25,20-Oct-25,Completed,24,R Singh
+ML0181,PRJ068,Test,Gate,16-Sep-26,18-Sep-26,Delayed,2,M Patel
+ML0182,PRJ024,UAT,Gate,02-Mar-26,11-Mar-26,Completed,9,P Gupta
+ML0183,PRJ010,Design,Gate,28-Nov-26,28-Nov-26,Pending,0,V Mehta
+ML0184,PRJ067,Design,Stage,01-Sep-25,28-Sep-25,Delayed,27,P Gupta
+ML0185,PRJ085,Design,Gate,03-Mar-26,14-Mar-26,Pending,11,A Sharma
+ML0186,PRJ048,Test,Gate,10-Oct-25,30-Oct-25,Delayed,20,V Mehta
+ML0187,PRJ090,Build,Stage,15-Jan-27,19-Jan-27,Delayed,4,K Rao
+ML0188,PRJ046,Test,Stage,26-Jul-26,06-Aug-26,Delayed,11,P Gupta
+ML0189,PRJ092,Go Live,Gate,27-Apr-26,28-Apr-26,Pending,1,M Patel
+ML0190,PRJ097,Build,Stage,20-Dec-25,07-Jan-26,Delayed,18,R Singh
+ML0191,PRJ098,Test,Gate,04-Jul-26,15-Jul-26,Pending,11,V Mehta
+ML0192,PRJ094,Build,Gate,05-Sep-25,06-Sep-25,Completed,1,K Rao
+ML0193,PRJ074,Test,Gate,15-Jan-27,18-Jan-27,Completed,3,V Mehta
+ML0194,PRJ061,Design,Gate,17-Apr-26,23-Apr-26,Completed,6,N Kumar
+ML0195,PRJ073,Build,Gate,03-Sep-26,14-Sep-26,Completed,11,S Verma
+ML0196,PRJ089,UAT,Stage,05-Oct-25,29-Oct-25,Completed,24,V Mehta
+ML0197,PRJ084,UAT,Gate,14-Jul-25,25-Jul-25,Completed,11,V Mehta
+ML0198,PRJ082,Build,Gate,15-Feb-25,10-Mar-25,Pending,23,S Verma
+ML0199,PRJ050,Go Live,Gate,15-May-26,27-May-26,Completed,12,M Patel
+ML0200,PRJ063,UAT,Gate,21-Aug-25,20-Sep-25,Pending,30,K Rao
+ML0201,PRJ016,UAT,Stage,06-Apr-26,22-Apr-26,Pending,16,V Mehta
+ML0202,PRJ038,Go Live,Gate,03-Jul-26,24-Jul-26,Pending,21,A Sharma
+ML0203,PRJ007,UAT,Gate,22-May-26,16-Jun-26,Completed,25,K Rao
+ML0204,PRJ037,Build,Gate,05-Mar-25,06-Mar-25,Completed,1,N Kumar
+ML0205,PRJ071,UAT,Stage,21-Oct-25,19-Nov-25,Completed,29,P Gupta
+ML0206,PRJ032,Go Live,Stage,17-May-26,01-Jun-26,Completed,15,P Gupta
+ML0207,PRJ080,Test,Gate,24-Dec-26,24-Dec-26,Completed,0,R Singh
+ML0208,PRJ091,Go Live,Gate,29-Jul-26,29-Jul-26,Delayed,0,K Rao
+ML0209,PRJ054,Build,Gate,04-Mar-27,18-Mar-27,Completed,14,P Gupta
+ML0210,PRJ018,UAT,Stage,12-Mar-25,12-Mar-25,Delayed,0,R Singh
+ML0211,PRJ093,Go Live,Stage,16-Apr-25,08-May-25,Completed,22,P Gupta
+ML0212,PRJ007,Build,Stage,29-May-26,16-Jun-26,Pending,18,P Gupta
+ML0213,PRJ029,Test,Gate,27-Jun-25,05-Jul-25,Completed,8,R Singh
+ML0214,PRJ062,UAT,Stage,30-Jul-26,03-Aug-26,Pending,4,R Singh
+ML0215,PRJ077,UAT,Gate,16-Apr-26,17-Apr-26,Delayed,1,K Rao
+ML0216,PRJ065,UAT,Gate,23-Apr-26,26-Apr-26,Completed,3,P Gupta
+ML0217,PRJ037,Go Live,Stage,27-Oct-25,24-Nov-25,Delayed,28,R Singh
+ML0218,PRJ071,Test,Gate,16-Nov-25,24-Nov-25,Delayed,8,K Rao
+ML0219,PRJ100,UAT,Gate,15-Oct-25,22-Oct-25,Completed,7,S Verma
+ML0220,PRJ082,UAT,Gate,25-May-25,11-Jun-25,Pending,17,A Sharma
+ML0221,PRJ093,Test,Stage,25-Apr-25,18-May-25,Pending,23,A Sharma
+ML0222,PRJ085,Design,Gate,28-Jun-26,28-Jun-26,Completed,0,K Rao
+ML0223,PRJ098,Go Live,Gate,04-Sep-26,30-Sep-26,Pending,26,N Kumar
+ML0224,PRJ048,Go Live,Gate,21-Jul-25,11-Aug-25,Delayed,21,R Singh
+ML0225,PRJ091,Build,Stage,15-Jan-27,26-Jan-27,Delayed,11,P Gupta
+ML0226,PRJ036,Design,Stage,24-Jun-26,03-Jul-26,Completed,9,N Kumar
+ML0227,PRJ051,Test,Gate,30-Jun-25,04-Jul-25,Delayed,4,R Singh
+ML0228,PRJ043,Design,Stage,24-Jul-25,21-Aug-25,Delayed,28,P Gupta
+ML0229,PRJ033,Build,Gate,12-Dec-26,04-Jan-27,Delayed,23,R Singh
+ML0230,PRJ010,Go Live,Gate,07-Mar-27,01-Apr-27,Completed,25,S Verma
+ML0231,PRJ088,Go Live,Gate,02-Jan-26,29-Jan-26,Completed,27,M Patel
+ML0232,PRJ070,Go Live,Stage,14-Dec-25,11-Jan-26,Delayed,28,P Gupta
+ML0233,PRJ073,Test,Stage,14-Mar-26,14-Mar-26,Delayed,0,A Sharma
+ML0234,PRJ059,Test,Stage,26-Jan-26,01-Feb-26,Completed,6,S Verma
+ML0235,PRJ002,Design,Stage,22-May-26,22-May-26,Delayed,0,A Sharma
+ML0236,PRJ093,Test,Stage,22-Mar-25,09-Apr-25,Delayed,18,K Rao
+ML0237,PRJ007,Test,Stage,24-Aug-26,02-Sep-26,Pending,9,N Kumar
+ML0238,PRJ022,Test,Stage,04-Jan-26,30-Jan-26,Pending,26,K Rao
+ML0239,PRJ040,Go Live,Stage,04-Oct-26,17-Oct-26,Completed,13,S Verma
+ML0240,PRJ052,UAT,Stage,01-Mar-25,11-Mar-25,Pending,10,P Gupta
+ML0241,PRJ014,UAT,Stage,25-Nov-25,24-Dec-25,Pending,29,A Sharma
+ML0242,PRJ042,Go Live,Stage,25-Nov-26,19-Dec-26,Completed,24,P Gupta
+ML0243,PRJ097,Build,Stage,25-Oct-26,16-Nov-26,Pending,22,M Patel
+ML0244,PRJ053,Go Live,Stage,03-Apr-26,03-Apr-26,Pending,0,M Patel
+ML0245,PRJ063,Test,Stage,11-Oct-25,06-Nov-25,Delayed,26,V Mehta
+ML0246,PRJ083,UAT,Gate,11-Jan-27,10-Feb-27,Delayed,30,P Gupta
+ML0247,PRJ019,Go Live,Stage,25-Dec-25,28-Dec-25,Delayed,3,P Gupta
+ML0248,PRJ100,Design,Stage,02-Aug-25,26-Aug-25,Completed,24,A Sharma
+ML0249,PRJ040,UAT,Gate,03-Apr-27,04-Apr-27,Delayed,1,M Patel
+ML0250,PRJ070,Build,Gate,01-Jul-25,19-Jul-25,Completed,18,P Gupta
+ML0251,PRJ074,Go Live,Stage,14-Jan-27,18-Jan-27,Delayed,4,A Sharma
+ML0252,PRJ055,Test,Stage,20-Jun-26,17-Jul-26,Delayed,27,S Verma
+ML0253,PRJ024,Go Live,Gate,17-Aug-25,09-Sep-25,Completed,23,P Gupta
+ML0254,PRJ081,Test,Stage,10-Aug-26,05-Sep-26,Pending,26,R Singh
+ML0255,PRJ051,Test,Stage,22-May-25,29-May-25,Pending,7,S Verma
+ML0256,PRJ090,Test,Gate,17-Aug-26,23-Aug-26,Delayed,6,P Gupta
+ML0257,PRJ067,UAT,Gate,03-Jun-25,06-Jun-25,Delayed,3,R Singh
+ML0258,PRJ083,Design,Stage,28-Oct-26,01-Nov-26,Completed,4,M Patel
+ML0259,PRJ095,Build,Stage,27-Aug-26,10-Sep-26,Pending,14,V Mehta
+ML0260,PRJ058,Test,Stage,03-Aug-25,25-Aug-25,Pending,22,R Singh
+ML0261,PRJ030,Go Live,Stage,23-Apr-26,15-May-26,Completed,22,V Mehta
+ML0262,PRJ068,Build,Gate,04-Sep-26,11-Sep-26,Pending,7,P Gupta
+ML0263,PRJ039,UAT,Stage,14-Jan-26,14-Jan-26,Completed,0,A Sharma
+ML0264,PRJ080,Test,Stage,24-May-26,03-Jun-26,Completed,10,P Gupta
+ML0265,PRJ089,UAT,Gate,21-Nov-25,21-Nov-25,Delayed,0,V Mehta
+ML0266,PRJ036,Build,Stage,22-Aug-26,19-Sep-26,Pending,28,K Rao
+ML0267,PRJ030,Go Live,Gate,30-Nov-25,25-Dec-25,Delayed,25,R Singh
+ML0268,PRJ072,Design,Stage,11-Sep-25,15-Sep-25,Completed,4,K Rao
+ML0269,PRJ013,Build,Stage,08-Jul-25,08-Jul-25,Completed,0,R Singh
+ML0270,PRJ038,Design,Gate,07-Apr-26,10-Apr-26,Pending,3,P Gupta
+ML0271,PRJ004,Build,Gate,27-Dec-25,27-Dec-25,Completed,0,K Rao
+ML0272,PRJ053,Go Live,Gate,07-Aug-26,13-Aug-26,Delayed,6,S Verma
+ML0273,PRJ070,UAT,Stage,30-Jun-25,09-Jul-25,Completed,9,N Kumar
+ML0274,PRJ054,Test,Gate,16-Jun-26,15-Jul-26,Completed,29,S Verma
+ML0275,PRJ035,Go Live,Stage,26-Aug-25,29-Aug-25,Delayed,3,A Sharma
+ML0276,PRJ005,Go Live,Gate,24-Nov-25,24-Nov-25,Delayed,0,P Gupta
+ML0277,PRJ095,Build,Stage,01-May-26,18-May-26,Delayed,17,P Gupta
+ML0278,PRJ096,Design,Gate,09-Jun-25,19-Jun-25,Completed,10,P Gupta
+ML0279,PRJ001,Design,Stage,05-Dec-25,30-Dec-25,Completed,25,K Rao
+ML0280,PRJ040,Build,Gate,07-Oct-26,02-Nov-26,Pending,26,S Verma
+ML0281,PRJ063,Go Live,Gate,21-Mar-26,24-Mar-26,Pending,3,A Sharma
+ML0282,PRJ046,Test,Gate,24-Oct-25,24-Oct-25,Pending,0,K Rao
+ML0283,PRJ042,Design,Gate,09-Jun-26,09-Jun-26,Pending,0,N Kumar
+ML0284,PRJ074,Test,Gate,08-Nov-26,27-Nov-26,Pending,19,R Singh
+ML0285,PRJ069,Test,Stage,06-Oct-26,21-Oct-26,Pending,15,N Kumar
+ML0286,PRJ031,Build,Gate,10-Jan-26,08-Feb-26,Pending,29,M Patel
+ML0287,PRJ034,Build,Stage,22-Aug-26,01-Sep-26,Delayed,10,R Singh
+ML0288,PRJ075,UAT,Stage,23-Nov-26,22-Dec-26,Pending,29,M Patel
+ML0289,PRJ008,Build,Gate,18-Apr-26,18-Apr-26,Completed,0,V Mehta
+ML0290,PRJ009,Test,Gate,17-Jun-25,10-Jul-25,Delayed,23,V Mehta
+ML0291,PRJ050,Test,Gate,28-Jul-26,10-Aug-26,Pending,13,V Mehta
+ML0292,PRJ085,Go Live,Gate,03-Jun-26,03-Jun-26,Pending,0,R Singh
+ML0293,PRJ064,Test,Gate,01-Apr-26,04-Apr-26,Delayed,3,N Kumar
+ML0294,PRJ008,Test,Stage,21-Mar-26,03-Apr-26,Pending,13,S Verma
+ML0295,PRJ082,UAT,Stage,15-Feb-25,09-Mar-25,Completed,22,V Mehta
+ML0296,PRJ068,Build,Gate,05-Jul-26,08-Jul-26,Delayed,3,S Verma
+ML0297,PRJ093,Go Live,Gate,30-Jun-25,12-Jul-25,Pending,12,M Patel
+ML0298,PRJ042,Go Live,Gate,13-Mar-26,14-Mar-26,Completed,1,K Rao
+ML0299,PRJ076,Design,Gate,23-Jun-26,06-Jul-26,Completed,13,M Patel
+ML0300,PRJ041,Build,Gate,06-Mar-26,06-Mar-26,Pending,0,A Sharma
+ML0301,PRJ070,Test,Stage,18-Sep-25,22-Sep-25,Delayed,4,P Gupta
+ML0302,PRJ093,UAT,Stage,05-Apr-25,05-Apr-25,Completed,0,K Rao
+ML0303,PRJ015,Design,Stage,20-Sep-25,20-Sep-25,Completed,0,V Mehta
+ML0304,PRJ056,Design,Gate,07-May-26,07-May-26,Pending,0,R Singh
+ML0305,PRJ030,Go Live,Stage,21-Aug-25,19-Sep-25,Completed,29,S Verma
+ML0306,PRJ085,Test,Gate,06-Jun-26,05-Jul-26,Delayed,29,A Sharma
+ML0307,PRJ026,UAT,Gate,20-Feb-26,14-Mar-26,Completed,22,A Sharma
+ML0308,PRJ061,Build,Stage,13-Aug-25,24-Aug-25,Delayed,11,P Gupta
+ML0309,PRJ085,Build,Gate,06-Feb-26,13-Feb-26,Pending,7,S Verma
+ML0310,PRJ039,Design,Stage,19-Jun-26,19-Jun-26,Delayed,0,V Mehta
+ML0311,PRJ064,Design,Stage,23-Dec-25,20-Jan-26,Pending,28,R Singh
+ML0312,PRJ007,Go Live,Stage,16-Apr-26,15-May-26,Delayed,29,N Kumar
+ML0313,PRJ097,Build,Stage,16-May-26,02-Jun-26,Completed,17,P Gupta
+ML0314,PRJ027,Build,Stage,01-Jul-26,18-Jul-26,Pending,17,M Patel
+ML0315,PRJ014,UAT,Stage,24-Apr-25,29-Apr-25,Pending,5,A Sharma
+ML0316,PRJ022,Go Live,Gate,06-Aug-25,11-Aug-25,Completed,5,N Kumar
+ML0317,PRJ061,Test,Stage,02-Jul-25,21-Jul-25,Pending,19,N Kumar
+ML0318,PRJ068,Build,Gate,28-Apr-26,01-May-26,Delayed,3,R Singh
+ML0319,PRJ083,Build,Gate,21-Nov-26,09-Dec-26,Completed,18,A Sharma
+ML0320,PRJ001,Build,Gate,03-Jan-26,31-Jan-26,Completed,28,P Gupta
+ML0321,PRJ039,Build,Stage,25-Dec-25,06-Jan-26,Completed,12,K Rao
+ML0322,PRJ006,Test,Stage,09-Jun-25,04-Jul-25,Delayed,25,A Sharma
+ML0323,PRJ069,Test,Stage,28-Feb-26,29-Mar-26,Pending,29,M Patel
+ML0324,PRJ054,Go Live,Gate,26-Apr-26,24-May-26,Pending,28,S Verma
+ML0325,PRJ006,UAT,Gate,10-Jul-25,01-Aug-25,Delayed,22,S Verma
+ML0326,PRJ035,UAT,Gate,26-Feb-26,28-Mar-26,Pending,30,S Verma
+ML0327,PRJ057,Test,Stage,21-Dec-25,02-Jan-26,Completed,12,M Patel
+ML0328,PRJ012,Test,Stage,04-Mar-25,07-Mar-25,Delayed,3,V Mehta
+ML0329,PRJ058,Design,Gate,14-Jun-25,15-Jun-25,Delayed,1,P Gupta
+ML0330,PRJ060,UAT,Gate,20-Apr-25,28-Apr-25,Completed,8,K Rao
+ML0331,PRJ081,Go Live,Stage,26-Jan-26,11-Feb-26,Completed,16,V Mehta
+ML0332,PRJ018,Go Live,Stage,12-Oct-25,12-Oct-25,Completed,0,V Mehta
+ML0333,PRJ028,Build,Gate,22-Sep-25,11-Oct-25,Completed,19,P Gupta
+ML0334,PRJ096,Go Live,Stage,09-May-25,12-May-25,Completed,3,K Rao
+ML0335,PRJ027,Build,Stage,21-Aug-26,16-Sep-26,Delayed,26,N Kumar
+ML0336,PRJ044,UAT,Gate,13-Nov-25,17-Nov-25,Delayed,4,M Patel
+ML0337,PRJ077,Design,Gate,11-May-26,03-Jun-26,Delayed,23,P Gupta
+ML0338,PRJ019,UAT,Stage,24-Oct-25,23-Nov-25,Pending,30,P Gupta
+ML0339,PRJ001,Test,Gate,28-Sep-25,28-Sep-25,Pending,0,A Sharma
+ML0340,PRJ016,Build,Gate,04-Jul-26,27-Jul-26,Pending,23,N Kumar
+ML0341,PRJ016,Test,Stage,03-Aug-26,29-Aug-26,Completed,26,R Singh
+ML0342,PRJ089,Test,Gate,19-Oct-25,19-Oct-25,Pending,0,K Rao
+ML0343,PRJ043,Test,Stage,21-Apr-26,18-May-26,Delayed,27,M Patel
+ML0344,PRJ020,Design,Stage,14-May-26,24-May-26,Pending,10,S Verma
+ML0345,PRJ092,Build,Stage,02-Sep-26,16-Sep-26,Pending,14,A Sharma
+ML0346,PRJ047,UAT,Gate,31-Jul-25,10-Aug-25,Delayed,10,R Singh
+ML0347,PRJ085,UAT,Gate,07-Jul-26,22-Jul-26,Pending,15,V Mehta
+ML0348,PRJ094,Test,Gate,08-Oct-25,16-Oct-25,Delayed,8,M Patel
+ML0349,PRJ030,Design,Stage,16-Jul-26,03-Aug-26,Pending,18,R Singh
+ML0350,PRJ030,UAT,Stage,11-Jul-25,08-Aug-25,Pending,28,R Singh
+ML0351,PRJ011,Go Live,Gate,26-Dec-26,26-Dec-26,Completed,0,P Gupta
+ML0352,PRJ100,Test,Stage,29-Aug-25,03-Sep-25,Completed,5,K Rao
+ML0353,PRJ018,Build,Gate,26-Dec-25,18-Jan-26,Pending,23,A Sharma
+ML0354,PRJ080,UAT,Stage,07-Oct-26,24-Oct-26,Completed,17,P Gupta
+ML0355,PRJ074,Design,Stage,18-Nov-25,14-Dec-25,Delayed,26,P Gupta
+ML0356,PRJ001,Design,Stage,15-Jan-26,05-Feb-26,Pending,21,V Mehta
+ML0357,PRJ097,Go Live,Gate,28-Aug-26,01-Sep-26,Delayed,4,A Sharma
+ML0358,PRJ008,Test,Stage,12-Feb-26,15-Feb-26,Completed,3,A Sharma
+ML0359,PRJ068,Go Live,Gate,10-May-26,08-Jun-26,Completed,29,A Sharma
+ML0360,PRJ074,UAT,Gate,04-Aug-26,22-Aug-26,Delayed,18,R Singh
+ML0361,PRJ049,Build,Gate,12-Sep-25,29-Sep-25,Completed,17,A Sharma
+ML0362,PRJ004,Go Live,Gate,06-Aug-26,07-Aug-26,Delayed,1,S Verma
+ML0363,PRJ015,Go Live,Gate,24-Jun-25,04-Jul-25,Pending,10,S Verma
+ML0364,PRJ100,Build,Gate,10-Nov-25,23-Nov-25,Delayed,13,R Singh
+ML0365,PRJ015,Design,Gate,29-Aug-25,10-Sep-25,Completed,12,A Sharma
+ML0366,PRJ011,Test,Stage,12-May-26,15-May-26,Completed,3,N Kumar
+ML0367,PRJ057,Build,Stage,01-May-25,10-May-25,Delayed,9,K Rao
+ML0368,PRJ054,Test,Stage,27-Aug-26,09-Sep-26,Completed,13,K Rao
+ML0369,PRJ017,Design,Gate,02-Mar-25,26-Mar-25,Delayed,24,S Verma
+ML0370,PRJ044,Design,Stage,12-Mar-26,07-Apr-26,Completed,26,V Mehta
+ML0371,PRJ052,Design,Stage,03-Jul-25,03-Jul-25,Delayed,0,R Singh
+ML0372,PRJ046,UAT,Stage,21-Sep-26,12-Oct-26,Pending,21,R Singh
+ML0373,PRJ011,Design,Gate,08-Sep-26,25-Sep-26,Delayed,17,V Mehta
+ML0374,PRJ030,Test,Gate,09-Jul-26,16-Jul-26,Completed,7,S Verma
+ML0375,PRJ023,Go Live,Gate,03-Oct-25,26-Oct-25,Delayed,23,M Patel
+ML0376,PRJ010,Design,Gate,21-Jun-26,01-Jul-26,Completed,10,M Patel
+ML0377,PRJ059,Build,Stage,19-Jan-27,04-Feb-27,Completed,16,R Singh
+ML0378,PRJ003,Test,Gate,27-May-25,09-Jun-25,Pending,13,R Singh
+ML0379,PRJ087,Build,Stage,19-Mar-26,04-Apr-26,Delayed,16,P Gupta
+ML0380,PRJ066,Design,Stage,01-Oct-25,01-Oct-25,Delayed,0,A Sharma
+ML0381,PRJ084,Build,Stage,22-Jul-25,09-Aug-25,Completed,18,V Mehta
+ML0382,PRJ028,Go Live,Gate,13-Oct-25,17-Oct-25,Pending,4,S Verma
+ML0383,PRJ048,UAT,Gate,17-Jun-25,17-Jun-25,Delayed,0,M Patel
+ML0384,PRJ060,UAT,Stage,07-Jul-25,25-Jul-25,Delayed,18,A Sharma
+ML0385,PRJ008,Design,Stage,12-Jan-26,01-Feb-26,Delayed,20,R Singh
+ML0386,PRJ008,Go Live,Stage,17-Mar-26,26-Mar-26,Completed,9,R Singh
+ML0387,PRJ016,Test,Stage,12-Jul-26,12-Jul-26,Pending,0,N Kumar
+ML0388,PRJ099,Build,Stage,04-Sep-26,15-Sep-26,Completed,11,A Sharma
+ML0389,PRJ054,Test,Stage,31-Mar-27,31-Mar-27,Completed,0,R Singh
+ML0390,PRJ099,UAT,Stage,02-Aug-26,04-Aug-26,Delayed,2,N Kumar
+ML0391,PRJ015,Go Live,Gate,21-Aug-25,16-Sep-25,Pending,26,R Singh
+ML0392,PRJ050,Build,Stage,10-Jul-26,24-Jul-26,Delayed,14,N Kumar
+ML0393,PRJ066,Build,Stage,08-Aug-25,14-Aug-25,Delayed,6,S Verma
+ML0394,PRJ037,UAT,Stage,20-Jul-25,21-Jul-25,Completed,1,R Singh
+ML0395,PRJ010,UAT,Stage,27-Dec-26,16-Jan-27,Completed,20,M Patel
+ML0396,PRJ099,UAT,Stage,20-Aug-25,24-Aug-25,Completed,4,N Kumar
+ML0397,PRJ047,Test,Gate,05-Aug-25,26-Aug-25,Delayed,21,R Singh
+ML0398,PRJ088,Test,Gate,28-Nov-25,03-Dec-25,Pending,5,K Rao
+ML0399,PRJ055,Test,Gate,01-Sep-26,18-Sep-26,Completed,17,P Gupta
+ML0400,PRJ064,Go Live,Stage,18-Dec-25,18-Dec-25,Completed,0,N Kumar
+ML0401,PRJ096,UAT,Gate,26-Jun-25,23-Jul-25,Pending,27,R Singh
+ML0402,PRJ081,Test,Stage,11-Aug-26,04-Sep-26,Pending,24,R Singh
+ML0403,PRJ077,Go Live,Gate,07-Oct-26,15-Oct-26,Completed,8,M Patel
+ML0404,PRJ036,Test,Gate,31-Mar-26,31-Mar-26,Completed,0,P Gupta
+ML0405,PRJ099,Build,Stage,29-Aug-26,13-Sep-26,Completed,15,P Gupta
+ML0406,PRJ014,Build,Stage,16-Apr-25,26-Apr-25,Pending,10,R Singh
+ML0407,PRJ067,Go Live,Stage,27-Nov-25,13-Dec-25,Pending,16,V Mehta
+ML0408,PRJ060,Go Live,Gate,21-Apr-25,23-Apr-25,Delayed,2,M Patel
+ML0409,PRJ022,Design,Stage,13-Jan-26,13-Jan-26,Completed,0,V Mehta
+ML0410,PRJ072,Build,Gate,11-Oct-25,03-Nov-25,Delayed,23,N Kumar
+ML0411,PRJ065,Go Live,Gate,07-Jun-26,22-Jun-26,Completed,15,N Kumar
+ML0412,PRJ053,Test,Gate,30-Jun-26,11-Jul-26,Completed,11,P Gupta
+ML0413,PRJ048,Build,Gate,02-Jun-25,25-Jun-25,Pending,23,K Rao
+ML0414,PRJ093,Go Live,Gate,23-May-25,24-May-25,Pending,1,A Sharma
+ML0415,PRJ095,Go Live,Gate,22-May-26,30-May-26,Pending,8,P Gupta
+ML0416,PRJ074,Build,Stage,29-Oct-25,01-Nov-25,Pending,3,K Rao
+ML0417,PRJ012,Design,Gate,04-Mar-25,05-Mar-25,Pending,1,S Verma
+ML0418,PRJ032,Test,Stage,15-May-25,11-Jun-25,Delayed,27,K Rao
+ML0419,PRJ063,Build,Stage,10-Mar-26,10-Mar-26,Completed,0,S Verma
+ML0420,PRJ075,Build,Gate,26-Sep-26,30-Sep-26,Pending,4,M Patel
+ML0421,PRJ054,Design,Gate,31-Mar-27,31-Mar-27,Delayed,0,P Gupta
+ML0422,PRJ032,UAT,Stage,18-Jan-26,03-Feb-26,Pending,16,N Kumar
+ML0423,PRJ095,UAT,Stage,17-Apr-26,29-Apr-26,Delayed,12,A Sharma
+ML0424,PRJ004,UAT,Stage,06-Jun-25,11-Jun-25,Completed,5,A Sharma
+ML0425,PRJ031,Test,Gate,25-Jun-26,12-Jul-26,Pending,17,S Verma
+ML0426,PRJ003,UAT,Stage,18-May-25,07-Jun-25,Completed,20,A Sharma
+ML0427,PRJ051,UAT,Gate,14-Jul-25,14-Jul-25,Delayed,0,R Singh
+ML0428,PRJ077,UAT,Stage,25-Apr-26,17-May-26,Pending,22,P Gupta
+ML0429,PRJ065,UAT,Gate,19-Aug-26,27-Aug-26,Completed,8,S Verma
+ML0430,PRJ094,Go Live,Stage,05-May-26,16-May-26,Delayed,11,V Mehta
+ML0431,PRJ096,UAT,Gate,24-Feb-26,16-Mar-26,Pending,20,A Sharma
+ML0432,PRJ065,Go Live,Gate,10-Aug-26,08-Sep-26,Pending,29,A Sharma
+ML0433,PRJ077,Test,Stage,02-Jul-26,16-Jul-26,Delayed,14,P Gupta
+ML0434,PRJ048,Go Live,Gate,31-Oct-25,06-Nov-25,Delayed,6,N Kumar
+ML0435,PRJ055,Go Live,Stage,25-Sep-26,25-Sep-26,Completed,0,V Mehta
+ML0436,PRJ081,Build,Stage,09-Jun-26,02-Jul-26,Delayed,23,N Kumar
+ML0437,PRJ072,Go Live,Stage,10-Jan-26,09-Feb-26,Delayed,30,V Mehta
+ML0438,PRJ056,Build,Gate,18-Jun-26,20-Jun-26,Pending,2,V Mehta
+ML0439,PRJ012,Design,Gate,18-Feb-25,08-Mar-25,Completed,18,A Sharma
+ML0440,PRJ066,Build,Stage,18-Sep-25,08-Oct-25,Pending,20,R Singh
+ML0441,PRJ066,Design,Gate,05-Jan-26,04-Feb-26,Delayed,30,R Singh
+ML0442,PRJ029,Test,Gate,11-May-25,13-May-25,Delayed,2,M Patel
+ML0443,PRJ015,Design,Gate,09-Apr-25,09-Apr-25,Pending,0,N Kumar
+ML0444,PRJ012,Go Live,Stage,02-Apr-25,07-Apr-25,Pending,5,A Sharma
+ML0445,PRJ078,UAT,Stage,28-Aug-25,22-Sep-25,Pending,25,M Patel
+ML0446,PRJ068,Test,Gate,14-Aug-26,11-Sep-26,Delayed,28,V Mehta
+ML0447,PRJ095,Test,Stage,08-Apr-26,05-May-26,Pending,27,K Rao
+ML0448,PRJ060,Go Live,Gate,02-Jun-25,14-Jun-25,Completed,12,M Patel
+ML0449,PRJ060,Build,Gate,09-Jun-25,12-Jun-25,Pending,3,V Mehta
+ML0450,PRJ100,Test,Stage,30-Jul-25,03-Aug-25,Pending,4,S Verma
+ML0451,PRJ060,Design,Gate,11-Jul-25,10-Aug-25,Delayed,30,A Sharma
+ML0452,PRJ085,UAT,Stage,10-Feb-26,23-Feb-26,Completed,13,M Patel
+ML0453,PRJ086,Build,Gate,31-Aug-25,20-Sep-25,Delayed,20,R Singh
+ML0454,PRJ032,Design,Gate,03-Jul-26,06-Jul-26,Completed,3,M Patel
+ML0455,PRJ006,Build,Stage,14-Jun-25,24-Jun-25,Completed,10,R Singh
+ML0456,PRJ042,UAT,Stage,30-Jan-26,13-Feb-26,Pending,14,A Sharma
+ML0457,PRJ042,Test,Stage,29-Jun-26,09-Jul-26,Pending,10,P Gupta
+ML0458,PRJ003,Build,Stage,12-Aug-25,19-Aug-25,Delayed,7,N Kumar
+ML0459,PRJ037,Build,Stage,11-Aug-25,23-Aug-25,Completed,12,S Verma
+ML0460,PRJ059,Design,Gate,24-Feb-26,09-Mar-26,Delayed,13,K Rao
+ML0461,PRJ025,Design,Stage,07-Mar-26,16-Mar-26,Delayed,9,P Gupta
+ML0462,PRJ019,UAT,Gate,31-Oct-25,28-Nov-25,Completed,28,A Sharma
+ML0463,PRJ017,Design,Gate,10-Aug-25,03-Sep-25,Completed,24,A Sharma
+ML0464,PRJ056,Design,Gate,29-May-26,29-May-26,Pending,0,N Kumar
+ML0465,PRJ007,Build,Gate,18-May-26,25-May-26,Pending,7,R Singh
+ML0466,PRJ012,Design,Gate,04-Apr-25,12-Apr-25,Completed,8,K Rao
+ML0467,PRJ072,UAT,Gate,05-Oct-25,29-Oct-25,Pending,24,S Verma
+ML0468,PRJ073,Test,Gate,25-Jan-26,29-Jan-26,Delayed,4,A Sharma
+ML0469,PRJ074,Go Live,Stage,26-Nov-25,04-Dec-25,Completed,8,V Mehta
+ML0470,PRJ089,Design,Gate,16-Nov-25,20-Nov-25,Delayed,4,P Gupta
+ML0471,PRJ040,Go Live,Gate,27-Jul-26,24-Aug-26,Completed,28,N Kumar
+ML0472,PRJ051,Go Live,Gate,31-Dec-25,05-Jan-26,Pending,5,R Singh
+ML0473,PRJ020,Build,Stage,11-Jan-27,03-Feb-27,Pending,23,M Patel
+ML0474,PRJ093,UAT,Stage,22-Jul-25,31-Jul-25,Delayed,9,M Patel
+ML0475,PRJ099,UAT,Stage,31-Dec-25,19-Jan-26,Pending,19,A Sharma
+ML0476,PRJ050,Design,Gate,07-Sep-26,07-Sep-26,Pending,0,M Patel
+ML0477,PRJ097,Go Live,Stage,18-Oct-25,18-Oct-25,Completed,0,N Kumar
+ML0478,PRJ075,Design,Stage,19-Jul-26,02-Aug-26,Completed,14,N Kumar
+ML0479,PRJ005,UAT,Stage,28-Jul-25,22-Aug-25,Delayed,25,V Mehta
+ML0480,PRJ023,Go Live,Gate,22-Aug-25,07-Sep-25,Delayed,16,S Verma
+ML0481,PRJ036,Build,Stage,18-Apr-27,10-May-27,Completed,22,M Patel
+ML0482,PRJ002,UAT,Stage,19-Aug-26,11-Sep-26,Completed,23,K Rao
+ML0483,PRJ039,Design,Gate,05-Feb-26,06-Mar-26,Delayed,29,K Rao
+ML0484,PRJ030,Test,Gate,13-Oct-25,21-Oct-25,Completed,8,M Patel
+ML0485,PRJ001,Test,Gate,01-Feb-26,16-Feb-26,Pending,15,V Mehta
+ML0486,PRJ071,Test,Gate,09-Feb-26,06-Mar-26,Pending,25,M Patel
+ML0487,PRJ020,Go Live,Gate,03-Jun-26,03-Jun-26,Completed,0,R Singh
+ML0488,PRJ068,Test,Gate,07-Jul-26,22-Jul-26,Pending,15,S Verma
+ML0489,PRJ089,Test,Stage,02-Oct-25,05-Oct-25,Completed,3,N Kumar
+ML0490,PRJ097,Test,Gate,17-Aug-26,12-Sep-26,Delayed,26,M Patel
+ML0491,PRJ008,UAT,Gate,01-Dec-25,14-Dec-25,Delayed,13,V Mehta
+ML0492,PRJ018,Design,Stage,06-Jun-25,11-Jun-25,Pending,5,R Singh
+ML0493,PRJ025,Test,Gate,16-Apr-26,13-May-26,Delayed,27,S Verma
+ML0494,PRJ025,Build,Gate,08-Mar-26,11-Mar-26,Delayed,3,P Gupta
+ML0495,PRJ079,UAT,Gate,04-Dec-25,23-Dec-25,Completed,19,P Gupta
+ML0496,PRJ070,Test,Gate,23-Aug-25,30-Aug-25,Completed,7,S Verma
+ML0497,PRJ082,Test,Stage,09-Jan-25,30-Jan-25,Pending,21,N Kumar
+ML0498,PRJ050,Build,Stage,03-Aug-26,08-Aug-26,Completed,5,P Gupta
+ML0499,PRJ050,Test,Gate,01-Aug-26,16-Aug-26,Completed,15,R Singh
+ML0500,PRJ093,Build,Gate,18-Mar-25,20-Mar-25,Pending,2,M Patel
+ML0501,PRJ083,UAT,Gate,02-Oct-26,31-Oct-26,Pending,29,A Sharma
+ML0502,PRJ029,Build,Stage,14-Mar-25,28-Mar-25,Pending,14,R Singh
+ML0503,PRJ087,Test,Gate,14-Nov-25,24-Nov-25,Pending,10,K Rao
+ML0504,PRJ088,Design,Stage,16-Sep-25,18-Sep-25,Completed,2,N Kumar
+ML0505,PRJ080,UAT,Stage,08-Apr-26,08-Apr-26,Completed,0,N Kumar
+ML0506,PRJ059,UAT,Stage,30-Dec-26,10-Jan-27,Pending,11,V Mehta
+ML0507,PRJ088,Go Live,Gate,13-Dec-25,15-Dec-25,Delayed,2,M Patel
+ML0508,PRJ006,Go Live,Stage,29-Nov-25,24-Dec-25,Pending,25,S Verma
+ML0509,PRJ033,Build,Gate,13-Nov-26,13-Nov-26,Completed,0,P Gupta
+ML0510,PRJ097,Design,Stage,07-Aug-26,07-Aug-26,Pending,0,S Verma
+ML0511,PRJ013,UAT,Stage,10-Apr-25,10-Apr-25,Delayed,0,P Gupta
+ML0512,PRJ039,Test,Stage,14-Aug-26,14-Aug-26,Delayed,0,A Sharma
+ML0513,PRJ042,Build,Stage,01-Jul-26,20-Jul-26,Pending,19,A Sharma
+ML0514,PRJ059,Build,Stage,27-Dec-26,27-Dec-26,Delayed,0,S Verma
+ML0515,PRJ023,Design,Gate,10-Jan-26,25-Jan-26,Pending,15,S Verma
+ML0516,PRJ063,Design,Gate,26-Feb-26,21-Mar-26,Delayed,23,K Rao
+ML0517,PRJ019,Build,Gate,17-Aug-25,31-Aug-25,Completed,14,P Gupta
+ML0518,PRJ015,Design,Gate,27-Jul-25,21-Aug-25,Pending,25,M Patel
+ML0519,PRJ003,UAT,Stage,29-Sep-25,09-Oct-25,Pending,10,N Kumar
+ML0520,PRJ069,Go Live,Stage,07-May-26,05-Jun-26,Delayed,29,N Kumar
+ML0521,PRJ020,UAT,Stage,01-Apr-27,15-Apr-27,Delayed,14,R Singh
+ML0522,PRJ031,UAT,Stage,02-Feb-26,14-Feb-26,Completed,12,K Rao
+ML0523,PRJ045,Design,Stage,27-Mar-27,27-Mar-27,Completed,0,R Singh
+ML0524,PRJ086,Build,Stage,20-Nov-25,08-Dec-25,Delayed,18,P Gupta
+ML0525,PRJ055,UAT,Gate,11-Jun-26,30-Jun-26,Pending,19,P Gupta
+ML0526,PRJ060,Build,Gate,15-Apr-25,19-Apr-25,Completed,4,N Kumar
+ML0527,PRJ083,Test,Gate,25-Jun-27,10-Jul-27,Pending,15,P Gupta
+ML0528,PRJ080,Go Live,Stage,14-Jun-26,08-Jul-26,Pending,24,N Kumar
+ML0529,PRJ019,Go Live,Gate,17-Oct-25,17-Oct-25,Pending,0,A Sharma
+ML0530,PRJ020,Design,Gate,17-Nov-26,08-Dec-26,Pending,21,P Gupta
+ML0531,PRJ050,Build,Gate,22-Aug-26,29-Aug-26,Pending,7,R Singh
+ML0532,PRJ002,Build,Stage,30-Jul-26,30-Jul-26,Completed,0,R Singh
+ML0533,PRJ007,Test,Stage,09-Jun-26,07-Jul-26,Completed,28,N Kumar
+ML0534,PRJ003,Go Live,Stage,05-Sep-25,05-Sep-25,Pending,0,N Kumar
+ML0535,PRJ084,Test,Stage,12-Jun-25,11-Jul-25,Pending,29,A Sharma
+ML0536,PRJ080,Go Live,Gate,19-Feb-26,03-Mar-26,Completed,12,K Rao
+ML0537,PRJ049,UAT,Gate,19-Nov-25,19-Dec-25,Delayed,30,N Kumar
+ML0538,PRJ054,Design,Gate,19-May-26,18-Jun-26,Delayed,30,P Gupta
+ML0539,PRJ070,Test,Gate,27-May-25,27-May-25,Delayed,0,S Verma
+ML0540,PRJ002,Design,Gate,27-Jun-26,27-Jun-26,Completed,0,K Rao
+ML0541,PRJ069,Build,Gate,26-Jun-26,26-Jun-26,Delayed,0,P Gupta
+ML0542,PRJ055,Go Live,Stage,29-Apr-26,03-May-26,Pending,4,R Singh
+ML0543,PRJ028,Design,Stage,23-Sep-25,24-Sep-25,Completed,1,A Sharma
+ML0544,PRJ074,Design,Gate,03-Mar-26,03-Mar-26,Completed,0,P Gupta
+ML0545,PRJ092,Design,Stage,27-Sep-26,24-Oct-26,Delayed,27,M Patel
+ML0546,PRJ086,Design,Gate,31-Aug-25,19-Sep-25,Pending,19,S Verma
+ML0547,PRJ011,Build,Gate,30-Jul-26,09-Aug-26,Completed,10,S Verma
+ML0548,PRJ019,Build,Gate,12-Jan-26,12-Jan-26,Pending,0,K Rao
+ML0549,PRJ019,UAT,Gate,10-Oct-25,08-Nov-25,Pending,29,V Mehta
+ML0550,PRJ096,Go Live,Gate,08-Sep-25,05-Oct-25,Completed,27,K Rao
+ML0551,PRJ085,Build,Stage,05-Apr-26,17-Apr-26,Delayed,12,N Kumar
+ML0552,PRJ082,Go Live,Stage,08-Jan-25,11-Jan-25,Completed,3,R Singh
+ML0553,PRJ085,Design,Gate,26-Feb-26,19-Mar-26,Completed,21,N Kumar
+ML0554,PRJ003,Design,Gate,19-Apr-25,07-May-25,Pending,18,M Patel
+ML0555,PRJ011,Test,Stage,02-Feb-27,09-Feb-27,Delayed,7,K Rao
+ML0556,PRJ052,Test,Stage,30-Apr-25,30-May-25,Pending,30,N Kumar
+ML0557,PRJ016,UAT,Gate,22-Feb-26,22-Feb-26,Delayed,0,K Rao
+ML0558,PRJ005,Test,Gate,26-Dec-25,13-Jan-26,Pending,18,S Verma
+ML0559,PRJ043,Design,Stage,15-Jul-25,30-Jul-25,Delayed,15,V Mehta
+ML0560,PRJ095,Build,Stage,23-Apr-26,15-May-26,Completed,22,V Mehta
+ML0561,PRJ075,Go Live,Gate,05-Jan-26,26-Jan-26,Completed,21,S Verma
+ML0562,PRJ029,Design,Gate,03-Mar-25,05-Mar-25,Completed,2,R Singh
+ML0563,PRJ097,Build,Gate,24-Oct-25,24-Oct-25,Completed,0,K Rao
+ML0564,PRJ080,Test,Stage,24-May-26,22-Jun-26,Pending,29,A Sharma
+ML0565,PRJ025,Build,Gate,14-Jan-26,07-Feb-26,Delayed,24,R Singh
+ML0566,PRJ002,Build,Stage,08-Jul-26,02-Aug-26,Pending,25,S Verma
+ML0567,PRJ069,Build,Stage,02-Apr-26,20-Apr-26,Delayed,18,N Kumar
+ML0568,PRJ029,Go Live,Stage,21-Aug-25,26-Aug-25,Delayed,5,S Verma
+ML0569,PRJ014,Design,Gate,02-Dec-25,07-Dec-25,Completed,5,V Mehta
+ML0570,PRJ086,Build,Stage,11-Jul-25,30-Jul-25,Delayed,19,N Kumar
+ML0571,PRJ002,Test,Stage,25-Aug-26,25-Aug-26,Completed,0,M Patel
+ML0572,PRJ020,UAT,Stage,06-Jun-26,18-Jun-26,Completed,12,V Mehta
+ML0573,PRJ002,UAT,Stage,08-May-26,20-May-26,Completed,12,N Kumar
+ML0574,PRJ099,Go Live,Gate,09-Jul-26,04-Aug-26,Delayed,26,M Patel
+ML0575,PRJ081,Test,Gate,01-Mar-26,27-Mar-26,Pending,26,K Rao
+ML0576,PRJ059,Go Live,Stage,28-Jan-26,30-Jan-26,Completed,2,S Verma
+ML0577,PRJ068,Build,Gate,12-Aug-26,12-Aug-26,Pending,0,K Rao
+ML0578,PRJ024,UAT,Gate,08-Sep-25,14-Sep-25,Completed,6,M Patel
+ML0579,PRJ030,Go Live,Gate,12-Aug-25,29-Aug-25,Pending,17,S Verma
+ML0580,PRJ062,UAT,Gate,11-May-26,27-May-26,Pending,16,M Patel
+ML0581,PRJ080,Go Live,Stage,05-Sep-26,16-Sep-26,Completed,11,M Patel
+ML0582,PRJ004,Design,Stage,14-Sep-25,17-Sep-25,Completed,3,K Rao
+ML0583,PRJ073,Design,Gate,04-May-26,28-May-26,Completed,24,S Verma
+ML0584,PRJ094,Design,Stage,20-Mar-26,04-Apr-26,Delayed,15,A Sharma
+ML0585,PRJ043,Build,Gate,06-Sep-25,10-Sep-25,Delayed,4,M Patel
+ML0586,PRJ030,Go Live,Gate,13-Feb-26,18-Feb-26,Pending,5,K Rao
+ML0587,PRJ077,Design,Stage,16-May-26,22-May-26,Pending,6,V Mehta
+ML0588,PRJ092,Build,Stage,08-Jan-27,19-Jan-27,Completed,11,M Patel
+ML0589,PRJ047,UAT,Gate,12-Oct-25,24-Oct-25,Delayed,12,R Singh
+ML0590,PRJ062,Build,Gate,12-Oct-26,08-Nov-26,Delayed,27,N Kumar
+ML0591,PRJ032,Test,Stage,02-Nov-25,16-Nov-25,Completed,14,N Kumar
+ML0592,PRJ088,Design,Gate,15-Sep-25,08-Oct-25,Pending,23,K Rao
+ML0593,PRJ057,Go Live,Stage,14-Jun-25,20-Jun-25,Completed,6,V Mehta
+ML0594,PRJ056,Go Live,Stage,24-Jul-26,15-Aug-26,Delayed,22,N Kumar
+ML0595,PRJ034,Design,Stage,03-May-26,01-Jun-26,Pending,29,R Singh
+ML0596,PRJ056,Test,Stage,18-Nov-25,10-Dec-25,Completed,22,P Gupta
+ML0597,PRJ082,Build,Stage,07-Mar-25,02-Apr-25,Completed,26,S Verma
+ML0598,PRJ095,Build,Stage,18-Jul-26,24-Jul-26,Completed,6,S Verma
+ML0599,PRJ094,Build,Gate,20-Jan-26,16-Feb-26,Pending,27,R Singh
+ML0600,PRJ066,Test,Stage,22-Jul-25,02-Aug-25,Completed,11,N Kumar
