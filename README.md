@@ -63,31 +63,61 @@ The objective of this project is to provide decision-makers with a centralized d
 
 ---
 
-# Dashboard Pages
+## Dashboard Pages
 
 ### Executive Dashboard
+
 Provides a high-level overview of portfolio performance through KPIs and executive summary visuals.
 
+![Executive Dashboard](Images/Executive_Dashboard.png)
+
+---
+
 ### Portfolio & Financial Analysis
-Analyzes budgets, actual spend, cost variance, and portfolio financial performance.
+
+Analyzes budgets, actual spend, cost variance, and financial performance.
+
+![Portfolio & Financial Analysis](Images/Portfolio_Financial_Analysis.png)
+
+---
 
 ### Resource & Capacity Management
-Monitors resource allocation, utilization, and department-wise workload.
+
+Monitors resource allocation and utilization.
+
+![Resource & Capacity Management](Images/Resource_Capacity_Management.png)
+
+---
 
 ### Risk & Issue Management
-Tracks project risks, issue severity, project health, and mitigation priorities.
+
+Tracks project risks and issues.
+
+![Risk & Issue Management](Images/Risk_Issue_Management.png)
+
+---
 
 ### Milestone & Change Requests
-Monitors milestone completion status and analyzes change requests across projects.
+
+Tracks milestones and change requests.
+
+![Milestone & Change Requests](Images/Milestone_Change_Requests.png)
+
+---
 
 ### Benefits Realization
-Measures expected versus realized business benefits and portfolio value delivery.
+
+Measures planned vs realized benefits.
+
+![Benefits Realization](Images/Benefits_Realization.png)
+
+---
 
 ### Executive AI Insights
-Uses Power BI AI visuals including:
-- Key Influencers
-- Decomposition Tree
-- AI-driven business insights
+
+Highlights AI-driven insights using Key Influencers and Decomposition Tree.
+
+![Executive AI Insights](Images/Executive_AI_Insights.png)
 
 ---
 
