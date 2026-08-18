@@ -279,7 +279,7 @@ The project includes Jira reporting artifacts demonstrating:
 
 #### Velocity Report
 
-![Velocity Report](Jira%20Project/Screenshots/05_Sprint1_Velocity_Reporting.png)
+![Velocity Report](Jira%20Project/Screenshots/05_Sprint1_Velocity_Report.png)
 
 #### Cumulative Flow Diagram
 
