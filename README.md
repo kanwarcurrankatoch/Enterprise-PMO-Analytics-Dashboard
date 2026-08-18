@@ -212,3 +212,98 @@ Potential future improvements include:
 - Forecasting and predictive analytics
 - Power BI Service deployment
 - Mobile-optimized dashboard
+
+---
+
+## Jira Project Management
+
+The project includes a complete Agile/Scrum project-management implementation built in Jira, covering project setup, requirements, backlog management, sprint execution, reporting, and retrospective analysis.
+
+### Jira Project Structure
+
+The Jira project is organized around the following PMO workstreams:
+
+- Project Initiation
+- Resource Planning
+- Financial Management
+- Risk Management
+- Issue Management
+- Milestone & Schedule Management
+- Change Request Management
+- Benefits Realization
+- Executive Reporting
+- Project Closure
+
+### Sprint 1 – Project Foundation
+
+Sprint 1 established the initial project foundation and included:
+
+- 8 stories planned
+- 8 stories completed
+- 38 story points planned
+- 38 story points completed
+- Sprint goal achieved
+- 100% sprint completion
+
+### Jira Reporting & Analytics
+
+The project includes Jira reporting artifacts demonstrating:
+
+- Active Sprint Board
+- Sprint Burndown
+- Completed Work Items
+- Burnup
+- Velocity
+- Cumulative Flow Diagram
+- Cycle Time
+- Deployment Frequency
+- Sprint Timeline
+
+### Jira Screenshots
+
+#### Sprint Board
+
+![Jira Sprint Board](Jira%20Project/Screenshots/01_Sprint1_Active_Board.png)
+
+#### Sprint Burndown
+
+![Sprint Burndown](Jira%20Project/Screenshots/02_Sprint1_Burndown_Chart.png)
+
+#### Completed Work Items
+
+![Completed Work Items](Jira%20Project/Screenshots/03_Sprint1_Completed_Work_Items.png)
+
+#### Burnup Report
+
+![Burnup Report](Jira%20Project/Screenshots/04_Sprint1_Burnup_Report.png)
+
+#### Velocity Report
+
+![Velocity Report](Jira%20Project/Screenshots/05_Sprint1_Velocity_Reporting.png)
+
+#### Cumulative Flow Diagram
+
+![Cumulative Flow Diagram](Jira%20Project/Screenshots/06_Sprint1_Cumulative_Flow_Diagram.png)
+
+#### Cycle Time
+
+![Cycle Time](Jira%20Project/Screenshots/07_Sprint1_Cycle_Time_Report_No_Data.png)
+
+#### Deployment Frequency
+
+![Deployment Frequency](Jira%20Project/Screenshots/08_Sprint1_Deployment_Frequency_Report_No_Data.png)
+
+#### Sprint Timeline
+
+![Sprint Timeline](Jira%20Project/Screenshots/09_Sprint1_Timeline.png)
+
+### Sprint Retrospective
+
+The Sprint 1 retrospective documented:
+
+- What went well
+- What could be improved
+- Lessons learned
+- Delivery and planning observations
+
+This demonstrates practical application of Agile/Scrum delivery, sprint planning, backlog management, delivery tracking, and continuous improvement.
