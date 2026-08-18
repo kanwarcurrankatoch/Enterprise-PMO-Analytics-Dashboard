@@ -192,29 +192,6 @@ Enterprise-PMO-Analytics-Dashboard
 
 ---
 
-# Author
-
-**Kanwar Curran Katoch**
-
-CAPM® | Certified ScrumMaster® (CSM®)
-
-Technical Project Manager | Business Intelligence & Data Analytics Enthusiast
-
----
-
-## Future Enhancements
-
-Potential future improvements include:
-
-- Real-time SQL database integration
-- Incremental data refresh
-- Row-Level Security (RLS)
-- Forecasting and predictive analytics
-- Power BI Service deployment
-- Mobile-optimized dashboard
-
----
-
 ## Jira Project Management
 
 The project includes a complete Agile/Scrum project-management implementation built in Jira, covering project setup, requirements, backlog management, sprint execution, reporting, and retrospective analysis.
@@ -307,3 +284,32 @@ The Sprint 1 retrospective documented:
 - Delivery and planning observations
 
 This demonstrates practical application of Agile/Scrum delivery, sprint planning, backlog management, delivery tracking, and continuous improvement.
+
+## Project Documentation
+
+Detailed project planning, Jira configuration, sprint documentation, reporting evidence, and retrospective materials are maintained in Confluence.
+
+[View Confluence Project Documentation](https://thekaran.atlassian.net/wiki/spaces/PM/pages/491521/Enterprise+PMO+Analytics+Dashboard+Project+Overview)
+
+[View Jira Project](https://thekaran.atlassian.net/jira/software/projects/SCRUM/summary)
+
+## Future Enhancements
+
+Potential future improvements include:
+
+- Real-time SQL database integration
+- Incremental data refresh
+- Row-Level Security (RLS)
+- Forecasting and predictive analytics
+- Power BI Service deployment
+- Mobile-optimized dashboard
+
+# Author
+
+**Kanwar Curran Katoch**
+
+CAPM® | Certified ScrumMaster® (CSM®)
+
+Technical Project Manager | Business Intelligence & Data Analytics Enthusiast
+
+---
